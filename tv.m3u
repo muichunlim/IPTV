@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1 group-title="新加坡",NHK
-https://live.catvod.com/live.php?id=NHK&token=ac20be61fb75ee128db63f55d05662166c704b49fd7d4800e12a03df1a4b3f73%3A1760646199%3AMjYwMTo2NDY6ODEwMDo1OTUwOmY5ZjM6OTFhZjpjM2IzOjNkZTk%3D
 #EXTINF:-1 group-title="新加坡",CHANNEL5
 https://live.catvod.com/live.php?id=Channel5HD&token=3cfd145a057c07277a93f360cd993dd441e98db18857cb51f36e7021e027b4ec%3A1760646199%3AMjYwMTo2NDY6ODEwMDo1OTUwOmY5ZjM6OTFhZjpjM2IzOjNkZTk%3D
 #EXTINF:-1 group-title="新加坡",CHANNEL8
