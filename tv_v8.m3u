@@ -526,13 +526,13 @@ https://live.catvod.com/live.php?id=hbohd_twn
 #EXTINF:-1 group-title="电影频道",HBOHITS
 https://live.catvod.com/live.php?id=hbohit_twn
 
-#EXTINF:-1 group-title="记录频道",National Geographic TW
+#EXTINF:-1 group-title="记录频道",NatGeo TW
 https://live.catvod.com/live.php?id=natgeohd_twn
-#EXTINF:-1 group-title="记录频道",National Geographic
+#EXTINF:-1 group-title="记录频道",NatGeo
 https://live.catvod.com/live.php?id=Natgeo
-#EXTINF:-1 group-title="记录频道",National Geographic Wild TW
+#EXTINF:-1 group-title="记录频道",NatGeo Wild TW
 https://live.catvod.com/live.php?id=natgeowild_twn
-#EXTINF:-1 group-title="记录频道",National Geographic Wild
+#EXTINF:-1 group-title="记录频道",NatGeo Wild
 https://live.catvod.com/live.php?id=Natgeowild
 #EXTINF:-1 group-title="记录频道",Animal Planet TW
 https://live.catvod.com/live.php?id=animalplanet_twn
