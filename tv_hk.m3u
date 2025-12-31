@@ -6,13 +6,13 @@ https://live.catvod.com/iptv.php?id=fct002
 https://live.catvod.com/iptv.php?id=fct003
 #EXTINF:-1 group-title="香港",翡翠台
 https://live.catvod.com/iptv.php?id=fct004
-#EXTINF:-1 group-title="香港",翡翠台 TW
+#EXTINF:-1 group-title="香港",翡翠台
 https://live.catvod.com/live.php?id=jade_twn
-#EXTINF:-1 group-title="香港",翡翠台 XUE
+#EXTINF:-1 group-title="香港",翡翠台
 https://live.catvod.com/live.php?id=Jade_xue
-#EXTINF:-1 group-title="香港",翡翠台4K
+#EXTINF:-1 group-title="香港",翡翠台
 https://live.catvod.com/iptv.php?id=fct4k01
-#EXTINF:-1 group-title="香港",翡翠台（字幕）
+#EXTINF:-1 group-title="香港",翡翠台
 https://live.catvod.com/iptv.php?id=fctsub
 #EXTINF:-1 group-title="香港",翡翠剧集台
 https://live.catvod.com/iptv.php?id=tvbd01
@@ -21,9 +21,9 @@ https://live.catvod.com/iptv.php?id=huali02
 
 #EXTINF:-1 group-title="香港",明珠台
 https://live.catvod.com/iptv.php?id=mzt001
-#EXTINF:-1 group-title="香港",明珠台（字幕）
+#EXTINF:-1 group-title="香港",明珠台
 https://live.catvod.com/iptv.php?id=mztsub
-#EXTINF:-1 group-title="香港",明珠台 TW
+#EXTINF:-1 group-title="香港",明珠台
 https://live.catvod.com/live.php?id=pearl_twn
 
 #EXTINF:-1 group-title="香港",TVB1
@@ -32,7 +32,7 @@ https://live.catvod.com/iptv.php?id=tvb1
 https://live.catvod.com/iptv.php?id=j1na001
 #EXTINF:-1 group-title="香港",TVB Plus
 https://live.catvod.com/iptv.php?id=tvbplus2
-#EXTINF:-1 group-title="香港",TVBPLUS TW
+#EXTINF:-1 group-title="香港",TVB Plus
 https://live.catvod.com/live.php?id=j2_twn
 #EXTINF:-1 group-title="香港",TVB娱乐新闻台
 https://live.catvod.com/iptv.php?id=tvbylxw
@@ -41,9 +41,9 @@ https://live.catvod.com/iptv.php?id=xinghe01
 
 #EXTINF:-1 group-title="香港",无线新闻
 https://live.catvod.com/iptv.php?id=tvbxw01
-#EXTINF:-1 group-title="香港",无线新闻 TW
+#EXTINF:-1 group-title="香港",无线新闻
 https://live.catvod.com/live.php?id=inews_twn
-#EXTINF:-1 group-title="香港",无线新闻台
+#EXTINF:-1 group-title="香港",无线新闻
 https://live.catvod.com/iptv.php?id=wxxw01
 
 #EXTINF:-1 group-title="香港",Now新闻台
@@ -51,11 +51,11 @@ https://live.catvod.com/iptv.php?id=nownews
 
 #EXTINF:-1 group-title="香港",RTHK31
 https://live.catvod.com/iptv.php?id=rthk31
-#EXTINF:-1 group-title="香港",RTHK31 TW
+#EXTINF:-1 group-title="香港",RTHK31
 https://live.catvod.com/live.php?id=rhk31_twn
 #EXTINF:-1 group-title="香港",RTHK32
 https://live.catvod.com/iptv.php?id=rthk32
-#EXTINF:-1 group-title="香港",RTHK32 TW
+#EXTINF:-1 group-title="香港",RTHK32
 https://live.catvod.com/live.php?id=rhk32_twn
 
 #EXTINF:-1 group-title="香港",VIU TV
@@ -140,4 +140,3 @@ https://live.catvod.com/iptv.php?id=szcjsh
 https://live.catvod.com/iptv.php?id=dycj01
 #EXTINF:-1 group-title="香港",五星体育
 https://live.catvod.com/iptv.php?id=wxty01
-
