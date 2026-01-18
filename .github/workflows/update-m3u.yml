@@ -30,7 +30,7 @@ jobs:
 
       - name: Run script
         run: |
-          python script.py
+          python gen_m3u.py
 
       # ===== 可选：自动提交生成的文件 =====
       - name: Commit updated m3u
