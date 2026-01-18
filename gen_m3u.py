@@ -6,18 +6,21 @@ INPUT_URL = "https://live.catvod.com/tv.m3u"
 OUTPUT_FILE = "tv.m3u"
 
 GROUP_ORDER = [
-    "港澳频道",
+    "港澳",
     "马来西亚",
     "新加坡",
     "Singapore",
+    "其它",
     "台湾",
     "香港",
     "中国",
-    "新闻频道",
-    "电影频道",
-    "纪录频道",
-    "体育频道",
-    "儿童频道",
+    "央视",
+    "卫视",
+    "新闻",
+    "电影",
+    "纪录",
+    "体育",
+    "儿童",
 ]
 
 # 仅用于「马来西亚」的 tvg-name 关键词
@@ -60,18 +63,25 @@ while i < len(lines) - 1:
     url = lines[i + 1].strip()
 
     # 提取 group-title
-    group_match = re.search(r'group-title="([^"]+)"', line)
+    group_match = re.search(r'group-title="([^"]*)"', line)
     if not group_match:
         i += 2
         continue
 
     group = group_match.group(1)
-    if group not in group_entries:
+
+    matched_group = None
+    for g in GROUP_ORDER:
+        if g in group:
+            matched_group = g
+            break
+            
+    if not matched_group:
         i += 2
         continue
 
     # 如果是「马来西亚」，额外检查 tvg-name
-    if group == "马来西亚":
+    if matched_group == "马来西亚":
         tvg_match = re.search(r'tvg-name="([^"]*)"', line)
         tvg_name = tvg_match.group(1) if tvg_match else ""
 
@@ -80,7 +90,7 @@ while i < len(lines) - 1:
             continue
 
     # 如果是「Singapore / 新加坡」，额外检查 tvg-name
-    if group in ["Singapore", "新加坡"]:
+    if matched_group in ["Singapore", "新加坡"]:
         tvg_match = re.search(r'tvg-name="([^"]*)"', line)
         tvg_name = tvg_match.group(1) if tvg_match else ""
 
@@ -88,7 +98,17 @@ while i < len(lines) - 1:
             i += 2
             continue
 
-    group_entries[group].append(f"{line}\n{url}\n")
+    # 如果 matched_group 包含 "其它"，使用 MY 和 SG 关键词过滤
+    if "其它" in matched_group:
+        # 提取逗号后面的频道名称
+        channel_name = line.rsplit(',', 1)[-1].strip()
+        
+        all_keywords = MY_TVG_KEYWORDS + SG_TVG_KEYWORDS
+        if not any(k.lower() in channel_name.lower() for k in all_keywords):
+            i += 2
+            continue
+
+    group_entries[matched_group].append(f"{line}\n{url}\n")
     i += 2
 
 # 输出新的 m3u
