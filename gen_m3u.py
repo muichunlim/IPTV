@@ -45,7 +45,16 @@ SG_TVG_KEYWORDS = [
 
 group_entries = OrderedDict((g, []) for g in GROUP_ORDER)
 
-resp = requests.get(INPUT_URL, timeout=15)
+HEADERS = {
+    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) "
+                  "AppleWebKit/537.36 (KHTML, like Gecko) "
+                  "Chrome/120.0.0.0 Safari/537.36",
+    "Accept": "*/*",
+    "Accept-Language": "zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7",
+    "Referer": "https://live.catvod.com/",
+}
+
+resp = requests.get(INPUT_URL, headers=HEADERS, timeout=15)
 resp.raise_for_status()
 
 # Save original m3u
