@@ -102,21 +102,19 @@ while i < len(lines) - 1:
         i += 2
         continue
 
-    # 如果是「马来西亚」，额外检查 tvg-name
+    # 如果是「马来西亚」，额外检查 channel_name
     if matched_group == "马来西亚":
-        tvg_match = re.search(r'tvg-name="([^"]*)"', line)
-        tvg_name = tvg_match.group(1) if tvg_match else ""
+        channel_name = line.rsplit(',', 1)[-1].strip()
 
-        if not any(k.lower() in tvg_name.lower() for k in MY_TVG_KEYWORDS):
+        if not any(k.lower() in channel_name.lower() for k in MY_TVG_KEYWORDS):
             i += 2
             continue
 
-    # 如果是「Singapore / 新加坡」，额外检查 tvg-name
+    # 如果是「Singapore / 新加坡」，额外检查 channel_name
     if matched_group in ["Singapore", "新加坡"]:
-        tvg_match = re.search(r'tvg-name="([^"]*)"', line)
-        tvg_name = tvg_match.group(1) if tvg_match else ""
+        channel_name = line.rsplit(',', 1)[-1].strip()
 
-        if not any(k.lower() in tvg_name.lower() for k in SG_TVG_KEYWORDS):
+        if not any(k.lower() in channel_name.lower() for k in SG_TVG_KEYWORDS):
             i += 2
             continue
 
