@@ -28,7 +28,6 @@ MY_TVG_KEYWORDS = [
     "华丽台",
     "欢喜台",
     "Astro QJ",
-    "TVB Jade",
     "爱奇艺",
     "星河台",
     "TVB",
