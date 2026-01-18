@@ -39,7 +39,9 @@ MY_TVG_KEYWORDS = [
 
 # 仅用于「Singapore / 新加坡」的 tvg-name 关键词
 SG_TVG_KEYWORDS = [
-    "Channel",
+    "Channel5",
+    "Channel8",
+    "ChannelU",
     "CNA",
     "MeWatch C",
 ]
