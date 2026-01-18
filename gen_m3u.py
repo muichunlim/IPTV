@@ -30,7 +30,7 @@ MY_TVG_KEYWORDS = [
     "AOD",
     "华丽台",
     "欢喜台",
-    "Astro QJ",
+    "全佳",
     "爱奇艺",
     "星河台",
     "TVB",
@@ -41,6 +41,7 @@ MY_TVG_KEYWORDS = [
 SG_TVG_KEYWORDS = [
     "Channel",
     "CNA",
+    "MeWatch C",
 ]
 
 group_entries = OrderedDict((g, []) for g in GROUP_ORDER)
