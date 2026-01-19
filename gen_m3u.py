@@ -68,8 +68,12 @@ HEADERS = {
 session = requests.Session()
 session.headers.update(HEADERS)
 
-resp = session.get(INPUT_URL, timeout=20)
-resp.raise_for_status()
+try:
+    resp = session.get(INPUT_URL, timeout=20)
+    resp.raise_for_status()
+except Exception as e:
+    print(f"Fetch failed: {e}")
+    exit(1)
 
 # Save original m3u
 with open("origin_tv.m3u", "wb") as f:
