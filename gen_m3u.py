@@ -36,7 +36,6 @@ MY_TVG_KEYWORDS = [
     "爱奇艺",
     "星河台",
     "TVB",
-    "Celestial",
 ]
 
 # 仅用于「Singapore / 新加坡」的 tvg-name 关键词
