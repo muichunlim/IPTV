@@ -27,6 +27,7 @@ GROUP_ORDER = [
 # 仅用于「马来西亚」的 tvg-name 关键词
 MY_TVG_KEYWORDS = [
     "8TV",
+    "TV8",
     "AEC",
     "AOD",
     "华丽台",
