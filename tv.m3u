@@ -569,6 +569,42 @@ https://live.catvod.com/live.php?id=hbohit_twn
 
 
 
+#EXTINF:-1 group-title="记录频道",natgeo
+https://live.catvod.com/live.php?id=natgeohd_twn
+#EXTINF:-1 group-title="记录频道",natgeowild
+https://live.catvod.com/live.php?id=natgeowild_twn
+#EXTINF:-1 group-title="记录频道",ANIMALPLANET
+https://live.catvod.com/live.php?id=animalplanet_twn
+#EXTINF:-1 group-title="记录频道",DiscoveryHD
+https://live.catvod.com/live.php?id=discoverytwn_twn
+#EXTINF:-1 group-title="记录频道",CI
+https://live.catvod.com/live.php?id=ci_twn
+#EXTINF:-1 group-title="记录频道",asiatravel
+https://live.catvod.com/live.php?id=asiatravel_twn
+#EXTINF:-1 group-title="记录频道",natgeo
+https://live.catvod.com/live.php?id=Natgeo
+#EXTINF:-1 group-title="记录频道",fashiontv
+https://live.catvod.com/live.php?id=fashiontv_twn
+#EXTINF:-1 group-title="记录频道",HISTORY
+https://live.catvod.com/live.php?id=History
+#EXTINF:-1 group-title="记录频道",BBCEarth
+https://live.catvod.com/live.php?id=bbcearth_twn
+#EXTINF:-1 group-title="记录频道",BBCLifestyle
+https://live.catvod.com/live.php?id=bbclifestyle_twn
+#EXTINF:-1 group-title="记录频道",MTVLive
+https://live.catvod.com/live.php?id=mtvhd_twn
+#EXTINF:-1 group-title="记录频道",natgeowild
+https://live.catvod.com/live.php?id=Natgeowild
+#EXTINF:-1 group-title="记录频道",ANIMALPLANET
+https://live.catvod.com/live.php?id=AnimalPlanet
+#EXTINF:-1 group-title="记录频道",tlc
+https://live.catvod.com/live.php?id=Tlc
+#EXTINF:-1 group-title="记录频道",FoodNetwork
+https://live.catvod.com/live.php?id=Foodnetwork
+#EXTINF:-1 group-title="记录频道",HGTV
+https://live.catvod.com/live.php?id=HGTV
+
+
 #EXTINF:-1 group-title="体育频道",Astro Premier League 1
 https://live.catvod.com/live.php?id=go_assp1
 #EXTINF:-1 group-title="体育频道",Astro EPL 1 backup
