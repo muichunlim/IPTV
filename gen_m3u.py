@@ -2,7 +2,7 @@ import requests
 import re
 from collections import OrderedDict
 
-INPUT_URL = "https://live.catvod.com/tv.m3u"
+INPUT_URL = "http://live.catvod.com/tv.m3u"
 OUTPUT_FILE = "tv.m3u"
 
 GROUP_ORDER = [
