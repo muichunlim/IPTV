@@ -140,7 +140,8 @@ while i < len(lines) - 1:
 with open(OUTPUT_FILE, "w", encoding="utf-8") as f:
     f.write('#EXTM3U x-tvg-url="http://epg.catvod.com/epg.xml"\n')
     for group in GROUP_ORDER:
-        f.write("\n\n")
+        if group_entries[group]:
+            f.write('\n')
         for entry in group_entries[group]:
             f.write(entry)
 

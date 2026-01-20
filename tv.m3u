@@ -1,14 +1,5 @@
 #EXTM3U x-tvg-url="http://epg.catvod.com/epg.xml"
 
-
-
-
-
-
-
-
-
-
 #EXTINF:-1 group-title="其它频道",CHANNEL5
 https://live.catvod.com/live.php?id=Channel5HD
 #EXTINF:-1 group-title="其它频道",CHANNEL8
@@ -53,7 +44,6 @@ https://live.catvod.com/live.php?id=Xinhe
 https://live.catvod.com/live.php?id=Qiyi
 #EXTINF:-1 group-title="其它频道",CNA
 https://live.catvod.com/live.php?id=cna
-
 
 #EXTINF:-1 group-title="台湾频道",TVBS新闻台
 https://live.catvod.com/live.php?id=tvbs_n
@@ -228,7 +218,6 @@ https://live.catvod.com/live.php?id=xingwei_movie
 #EXTINF:-1 group-title="台湾频道",亚洲旅游台
 https://live.catvod.com/live.php?id=asiatravel_twn
 
-
 #EXTINF:-1 group-title="香港频道",翡翠台
 https://live.catvod.com/iptv.php?id=fct002
 #EXTINF:-1 group-title="香港频道",翡翠台
@@ -396,9 +385,6 @@ https://live.catvod.com/live.php?id=phoenixinfo_hd
 #EXTINF:-1 group-title="香港频道",viutv6
 https://live.catvod.com/live.php?id=viusix_twn
 
-
-
-
 #EXTINF:-1 group-title="央视频道",CCTV1
 https://live.catvod.com/live.php?id=cctv1
 #EXTINF:-1 group-title="央视频道",CCTV2
@@ -438,7 +424,6 @@ https://live.catvod.com/live.php?id=cctv16
 #EXTINF:-1 group-title="央视频道",CCTV-17
 https://live.catvod.com/live.php?id=cctv17
 
-
 #EXTINF:-1 group-title="卫视频道",湖南卫视
 https://live.catvod.com/live.php?id=hunan_twn
 #EXTINF:-1 group-title="卫视频道",浙江卫视
@@ -467,7 +452,6 @@ https://live.catvod.com/live.php?id=hubei
 https://live.catvod.com/live.php?id=sichuan_twn
 #EXTINF:-1 group-title="卫视频道",CGTN
 https://live.catvod.com/live.php?id=CGTN
-
 
 #EXTINF:-1 group-title="新闻频道",SkyNews
 https://live.catvod.com/live.php?id=skynews_twn
@@ -503,7 +487,6 @@ https://live.catvod.com/live.php?id=Bbcnews
 https://live.catvod.com/live.php?id=bloomberg_twn
 #EXTINF:-1 group-title="新闻频道",aljazeera
 https://live.catvod.com/live.php?id=aljazeera_twn
-
 
 #EXTINF:-1 group-title="电影频道",CATCHPLAY电影
 https://live.catvod.com/live.php?id=catchplay_twn
@@ -564,9 +547,6 @@ https://live.catvod.com/live.php?id=hbohd_twn
 #EXTINF:-1 group-title="电影频道",HBOHITS
 https://live.catvod.com/live.php?id=hbohit_twn
 
-
-
-
 #EXTINF:-1 group-title="记录频道",natgeo
 https://live.catvod.com/live.php?id=natgeohd_twn
 #EXTINF:-1 group-title="记录频道",natgeowild
@@ -601,7 +581,6 @@ https://live.catvod.com/live.php?id=Tlc
 https://live.catvod.com/live.php?id=Foodnetwork
 #EXTINF:-1 group-title="记录频道",HGTV
 https://live.catvod.com/live.php?id=HGTV
-
 
 #EXTINF:-1 group-title="体育频道",Astro Premier League 1
 https://live.catvod.com/live.php?id=go_assp1
@@ -701,7 +680,6 @@ https://live.catvod.com/live.php?id=pts3_twn
 https://live.catvod.com/live.php?id=dazn1_twn
 #EXTINF:-1 group-title="体育频道",DAZN2
 https://live.catvod.com/live.php?id=dazn2_twn
-
 
 #EXTINF:-1 group-title="儿童频道",BABYTV
 https://live.catvod.com/live.php?id=Babytv
