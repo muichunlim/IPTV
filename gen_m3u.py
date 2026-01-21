@@ -41,35 +41,19 @@ MY_TVG_KEYWORDS = [
 # 仅用于「Singapore / 新加坡」的 tvg-name 关键词
 SG_TVG_KEYWORDS = [
     "Channel5",
+    "Channel 5",
     "Channel8",
+    "Channel 8",
     "ChannelU",
+    "Channel U",
     "CNA",
     "MeWatch C",
 ]
 
 group_entries = OrderedDict((g, []) for g in GROUP_ORDER)
 
-HEADERS = {
-    "User-Agent": (
-        "Mozilla/5.0 (Windows NT 10.0; Win64; x64) "
-        "AppleWebKit/537.36 (KHTML, like Gecko) "
-        "Chrome/121.0.0.0 Safari/537.36"
-    ),
-    "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
-    "Accept-Language": "zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7",
-    "Accept-Encoding": "gzip, deflate, br",
-    "Connection": "keep-alive",
-    "Upgrade-Insecure-Requests": "1",
-    "Referer": "https://live.catvod.com/",
-    "Cache-Control": "no-cache",
-    "Pragma": "no-cache",
-}
-
-session = requests.Session()
-session.headers.update(HEADERS)
-
 try:
-    resp = session.get(INPUT_URL, timeout=20)
+    resp = requests.get(INPUT_URL, timeout=20)
     resp.raise_for_status()
 except Exception as e:
     print(f"Fetch failed: {e}")
