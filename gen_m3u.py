@@ -1,8 +1,10 @@
 import requests
+import time
+import random
 import re
 from collections import OrderedDict
 
-INPUT_URL = "http://live.catvod.com/tv.m3u"
+INPUT_URL = "https://live.catvod.com/tv.m3u"
 OUTPUT_FILE = "tv.m3u"
 
 GROUP_ORDER = [
@@ -53,12 +55,25 @@ SG_TVG_KEYWORDS = [
 
 group_entries = OrderedDict((g, []) for g in GROUP_ORDER)
 
-try:
-    resp = requests.get(INPUT_URL, timeout=20)
-    resp.raise_for_status()
-except Exception as e:
-    print(f"Fetch failed: {e}")
-    exit(1)
+MAX_RETRIES = 2
+for attempt in range(MAX_RETRIES + 1):
+    try:
+        resp = requests.get(INPUT_URL, timeout=20)
+        resp.raise_for_status()
+        if not resp.text:
+            raise Exception("Response is empty")
+        if len(resp.text.splitlines()) < 100:
+            raise Exception("Response is less than 100 lines")
+        break
+    except Exception as e:
+        print(f"Attempt {attempt + 1} failed: {e}")
+        if attempt < MAX_RETRIES:
+            wait_seconds = random.randint(1, 300)
+            print(f"Retrying in {wait_seconds} seconds...")
+            time.sleep(wait_seconds)
+        else:
+            print("Fetch failed. Exiting.")
+            exit(1)
 
 # Save original m3u
 with open("origin_tv.m3u", "wb") as f:
