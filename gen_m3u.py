@@ -58,7 +58,10 @@ group_entries = OrderedDict((g, []) for g in GROUP_ORDER)
 MAX_RETRIES = 2
 for attempt in range(MAX_RETRIES + 1):
     try:
-        resp = requests.get(INPUT_URL, timeout=20)
+        headers = {
+            "User-Agent": "VLC/3.0.20 LibVLC/3.0.20"
+        }
+        resp = requests.get(INPUT_URL, headers=headers, timeout=20)
         resp.raise_for_status()
         if not resp.text:
             raise Exception("Response is empty")
