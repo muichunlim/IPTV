@@ -1,4 +1,4 @@
-#EXTM3U x-tvg-url="https://epg.catvod.com/epg.xml" tvbox-ts="20260206053626"
+#EXTM3U x-tvg-url="https://epg.catvod.com/epg.xml" tvbox-ts="20260206053912"
 
 #EXTINF:-1 tvg-id="TV8" tvg-name="8TV" group-title="马来西亚",8TV
 https://live.catvod.com/live.php?id=TV8
