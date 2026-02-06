@@ -2,6 +2,7 @@ import requests
 import time
 import random
 import re
+from datetime import datetime, UTC
 from collections import OrderedDict
 
 INPUT_URL = "https://live.catvod.com/tv.m3u"
@@ -144,7 +145,7 @@ while i < len(lines) - 1:
 # 输出新的 m3u
 with open(OUTPUT_FILE, "w", encoding="utf-8") as f:
     # ---- 关键点 1：EXTM3U 强制变化 ----
-    ts = datetime.utcnow().strftime("%Y%m%d%H%M%S")
+    ts = datetime.now(UTC).strftime("%Y%m%d%H%M%S")
     f.write(f'#EXTM3U x-tvg-url="https://epg.catvod.com/epg.xml" tvbox-ts="{ts}"\n')
 
     for group in GROUP_ORDER:
