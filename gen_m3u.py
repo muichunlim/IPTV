@@ -59,7 +59,9 @@ MAX_RETRIES = 2
 for attempt in range(MAX_RETRIES + 1):
     try:
         headers = {
-            "User-Agent": "VLC/3.0.20 LibVLC/3.0.20"
+            "User-Agent": "VLC/3.0.20 LibVLC/3.0.20",
+            "Referer": "https://live.catvod.com/",
+            "Accept": "*/*"
         }
         resp = requests.get(INPUT_URL, headers=headers, timeout=20)
         resp.raise_for_status()
@@ -141,7 +143,10 @@ while i < len(lines) - 1:
 
 # 输出新的 m3u
 with open(OUTPUT_FILE, "w", encoding="utf-8") as f:
-    f.write('#EXTM3U x-tvg-url="http://epg.catvod.com/epg.xml"\n')
+    # ---- 关键点 1：EXTM3U 强制变化 ----
+    ts = datetime.utcnow().strftime("%Y%m%d%H%M%S")
+    f.write(f'#EXTM3U x-tvg-url="https://epg.catvod.com/epg.xml" tvbox-ts="{ts}"\n')
+
     for group in GROUP_ORDER:
         if group_entries[group]:
             f.write('\n')

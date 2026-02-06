@@ -1,761 +1,617 @@
 #EXTM3U x-tvg-url="http://epg.catvod.com/epg.xml"
 
 #EXTINF:-1 tvg-id="TV8" tvg-name="8TV" group-title="马来西亚",8TV
-https://live.catvod.com/live.php?id=TV8&token=1769385806.61f07afee7cee0744fb8d5b2bac359c21fd2feea5826713fb8f7ce38b1ba6585
+https://live.catvod.com/live.php?id=TV8
 #EXTINF:-1 tvg-id="AEC" tvg-name="AEC" group-title="马来西亚",AEC
-https://live.catvod.com/live.php?id=AEC&token=1769385806.e8f9751a5a0cde7ebce0e265cf819b51fac23f15d8131ed14a2af24b50a167d0
+https://live.catvod.com/live.php?id=AEC
 #EXTINF:-1 tvg-id="Aodhd" tvg-name="AOD" group-title="马来西亚",AOD
-https://live.catvod.com/live.php?id=Aodhd&token=1769385806.2c22f9964c21f543ac7bd0dfc88b3882647e9b4d574bfebff8e19a4870eaebd2
+https://live.catvod.com/live.php?id=Aodhd
 #EXTINF:-1 tvg-id="Wlt" tvg-name="华丽台 HD (Wah Lai Toi)" group-title="马来西亚",华丽台 HD (Wah Lai Toi)
-https://live.catvod.com/live.php?id=Wlt&token=1769385806.ff522a80963d0eb70b2e7779691f995fd94083b2435e7f8544af7cdb1714bd62
+https://live.catvod.com/live.php?id=Wlt
 #EXTINF:-1 tvg-id="Huahee" tvg-name="欢喜台 HD(Hua Hee Tai)" group-title="马来西亚",欢喜台 HD(Hua Hee Tai)
-https://live.catvod.com/live.php?id=Huahee&token=1769385806.c1dc2c94163f457f14591720a67401e44f994e96204a30ae8a67bbef4bd62467
+https://live.catvod.com/live.php?id=Huahee
 #EXTINF:-1 tvg-id="Quanjia" tvg-name="Astro QJ" group-title="马来西亚",Astro QJ
-https://live.catvod.com/live.php?id=Quanjia&token=1769385806.8855864e5e7f821ae4d90d5de86fac698535b030749b582eb996523b5eca67ad
+https://live.catvod.com/live.php?id=Quanjia
 #EXTINF:-1 tvg-id="Tvbjade" tvg-name="TVB Jade" group-title="马来西亚",TVB Jade
-https://live.catvod.com/live.php?id=Tvbjade&token=1769385806.ff86eda9e1f95ed4d84e449d6910bf1a8761384cdeeee418af274c811d43c026
+https://live.catvod.com/live.php?id=Tvbjade
 #EXTINF:-1 tvg-id="Qiyi" tvg-name="爱奇艺 iQiyi" group-title="马来西亚",爱奇艺 iQiyi
-https://live.catvod.com/live.php?id=Qiyi&token=1769385806.af4c51e93d958af736063818e0c278b3cef57808c53ddd1783ec787d58a4b4bd
+https://live.catvod.com/live.php?id=Qiyi
 #EXTINF:-1 tvg-id="Xinhe" tvg-name="TVB 星河台  Xing He" group-title="马来西亚",TVB 星河台  Xing He
-https://live.catvod.com/live.php?id=Xinhe&token=1769385806.35e3429e5786f7950a00cfa3b2fe94b611dbe2b959473076f0e3236494afa321
+https://live.catvod.com/live.php?id=Xinhe
 #EXTINF:-1 tvg-id="Tvbasia" tvg-name="TVB Asia" group-title="马来西亚",TVB Asia
-https://live.catvod.com/live.php?id=Tvbasia&token=1769385806.2de5e676c79b87b5598cb9b55a71cd1b3db15e14d2a85f1d497194cf62ad587a
+https://live.catvod.com/live.php?id=Tvbasia
 #EXTINF:-1 tvg-id="Tvbentertainment" tvg-name="TVB Entertainment" group-title="马来西亚",TVB Entertainment
-https://live.catvod.com/live.php?id=Tvbentertainment&token=1769385806.c3d5665d37cb3b302c21c8ecbf7d4e67b85ee66e8843646e2ac285089c3c79ec
+https://live.catvod.com/live.php?id=Tvbentertainment
 #EXTINF:-1 tvg-id="Tvbclassic" tvg-name="TVB Classic" group-title="马来西亚",TVB Classic
-https://live.catvod.com/live.php?id=Tvbclassic&token=1769385806.e072094dbfff3f52744d38a8619c267eacfea9276a9c89d587a3aa6b472a33fb
+https://live.catvod.com/live.php?id=Tvbclassic
 
 #EXTINF:-1 tvg-id="Channel5HD" tvg-name="Channel 5" group-title="Singapore",Channel 5
-https://live.catvod.com/live.php?id=Channel5HD&token=1769385806.904b49d06a68c12c7b10763033389116e628ff24ee8bbcd8e076d28f870e0fd2
+https://live.catvod.com/live.php?id=Channel5HD
 #EXTINF:-1 tvg-id="Mewatch_ch5" tvg-name="Channel 5 backup" group-title="Singapore",Channel 5 backup
-https://live.catvod.com/live.php?id=Mewatch_ch5&token=1769385806.963f3f2fb0b04a39c209ca765e255d9a24519ff3800326b5c955b47e4494e482
+https://live.catvod.com/live.php?id=Mewatch_ch5
 #EXTINF:-1 tvg-id="Channel8HD" tvg-name="Channel 8" group-title="Singapore",Channel 8
-https://live.catvod.com/live.php?id=Channel8HD&token=1769385806.c7a41e6458524d77563a34d92568767b6f131459e09f8f2e6ad4b38dd87e6433
+https://live.catvod.com/live.php?id=Channel8HD
 #EXTINF:-1 tvg-id="Mewatch_ch8" tvg-name="Channel 8 backup" group-title="Singapore",Channel 8 backup
-https://live.catvod.com/live.php?id=Mewatch_ch8&token=1769385806.015d7805f599fe83e6e50f17a39ea79e3143e41de5ea669980886ca707ed1569
+https://live.catvod.com/live.php?id=Mewatch_ch8
 #EXTINF:-1 tvg-id="ChannelU" tvg-name="Channel U" group-title="Singapore",Channel U
-https://live.catvod.com/live.php?id=ChannelU&token=1769385806.86b6b026c90d9bb3efcbd358d4ba1bca5dc54622b8b69df01c2b0e357f1883fc
+https://live.catvod.com/live.php?id=ChannelU
 #EXTINF:-1 tvg-id="Mewatch_chU" tvg-name="Channel U backup" group-title="Singapore",Channel U backup
-https://live.catvod.com/live.php?id=Mewatch_chU&token=1769385806.406660a76d50cd5620dbacc78683d9ce67699ee26fd7336f1201ec35b039cc9a
+https://live.catvod.com/live.php?id=Mewatch_chU
 #EXTINF:-1 tvg-id="Mewatch_cna" tvg-name="CNA backup1" group-title="Singapore",CNA backup1
-https://live.catvod.com/live.php?id=Mewatch_cna&token=1769385806.2e43c5ae798915ef04cd51fd1cb0fe1f3b5da7698c832cac892fa3c68185b186
+https://live.catvod.com/live.php?id=Mewatch_cna
 #EXTINF:-1 tvg-id="cna_twn" tvg-name="CNA backup2" group-title="Singapore",CNA backup2
-https://live.catvod.com/live.php?id=cna_twn&token=1769385806.c64dd4befec83009d6a7b6625346c7ad413cd69e969d5b4a7a44feb8a2356654
+https://live.catvod.com/live.php?id=cna_twn
 #EXTINF:-1 tvg-id="cna" tvg-name="CNA" group-title="Singapore",CNA
-https://live.catvod.com/live.php?id=cna&token=1769385806.5eec9c55fdd85ab7ed876c8d6ce86cc37099611c119ff2f878ef0824a90681d6
+https://live.catvod.com/live.php?id=cna
 
 #EXTINF:-1 tvg-id="tvbshuanle_twn" tvg-name="TVBS 歡樂台" group-title="台湾",TVBS 歡樂台
-https://live.catvod.com/live.php?id=tvbshuanle_twn&token=1769385806.001e7db912247f6c601df996f9769b06cdda7d8138c7156575702956956becd0
+https://live.catvod.com/live.php?id=tvbshuanle_twn
 #EXTINF:-1 tvg-id="tvbs" tvg-name="TVBS HD" group-title="台湾",TVBS HD
-https://live.catvod.com/live.php?id=tvbs&token=1769385806.a41d4e1e27aa58ca5eb4413f54a384f5c35d6d083e37774799787ef8cdb7d65c
+https://live.catvod.com/live.php?id=tvbs
 #EXTINF:-1 tvg-id="ctient" tvg-name="中天娱乐 CTI Entertaiment" group-title="台湾",中天娱乐 CTI Entertaiment
-https://live.catvod.com/live.php?id=ctient&token=1769385806.7192c6000932f435e30c593928a002ba999cd3c59e52ae28c4e1e5a54c6bbab1
+https://live.catvod.com/live.php?id=ctient
 #EXTINF:-1 tvg-id="ctizhonghe" tvg-name="中天综合 CTI Metro" group-title="台湾",中天综合 CTI Metro
-https://live.catvod.com/live.php?id=ctizhonghe&token=1769385806.431fbf19168e43632751e03c7125b566c89908ab5f2e230aaf068c9fab00e812
+https://live.catvod.com/live.php?id=ctizhonghe
 #EXTINF:-1 tvg-id="ctiasia_twn" tvg-name="中天亚洲台" group-title="台湾",中天亚洲台
-https://live.catvod.com/live.php?id=ctiasia_twn&token=1769385806.679f75cc9aa125056e5dc5444ec630b22a1c8cc43a2fc8be63dd0c70a0dc4064
+https://live.catvod.com/live.php?id=ctiasia_twn
 #EXTINF:-1 tvg-id="ttv_taiwan" tvg-name="台视 TTV HD" group-title="台湾",台视 TTV HD
-https://live.catvod.com/live.php?id=ttv_taiwan&token=1769385806.39b361c05a16815ce54b5737e05fcb4e45f7a63f1826817ddecdf63dffd67547
+https://live.catvod.com/live.php?id=ttv_taiwan
 #EXTINF:-1 tvg-id="ttvzhonghe" tvg-name="台视综合台" group-title="台湾",台视综合台
-https://live.catvod.com/live.php?id=ttvzhonghe&token=1769385806.1e24aa120498dd15c2b3f33ec5ac07f82f7c08780b663914ea5f8f2d126bfca6
+https://live.catvod.com/live.php?id=ttvzhonghe
 #EXTINF:-1 tvg-id="zhongshihd_twn" tvg-name="中视 HD" group-title="台湾",中视 HD
-https://live.catvod.com/live.php?id=zhongshihd_twn&token=1769385806.7f3afe388396fabcaa9a432820850698d36196be80d43c899544fc87d9769d65
+https://live.catvod.com/live.php?id=zhongshihd_twn
 #EXTINF:-1 tvg-id="ftvhd_taiwan" tvg-name="民视 HD" group-title="台湾",民视 HD
-https://live.catvod.com/live.php?id=ftvhd_taiwan&token=1769385806.a8c6a76f347afd7b8f1ea97a6718bd2a2ffa79135aba254ec4e8aa884f1b0cbd
+https://live.catvod.com/live.php?id=ftvhd_taiwan
 #EXTINF:-1 tvg-id="ftvtaiwan_twn" tvg-name="民视台湾台" group-title="台湾",民视台湾台
-https://live.catvod.com/live.php?id=ftvtaiwan_twn&token=1769385806.79ad080939670b8a2a6bc2be4f19bf7efb7d00cbc740d4a1977b211181b19bdd
+https://live.catvod.com/live.php?id=ftvtaiwan_twn
 #EXTINF:-1 tvg-id="ctshd_twn" tvg-name="华视 CTS HD" group-title="台湾",华视 CTS HD
-https://live.catvod.com/live.php?id=ctshd_twn&token=1769385806.23cc96d18c469b520f68acf4dc08ad49ba0ea103d6b93691f4ab72d9c955df19
+https://live.catvod.com/live.php?id=ctshd_twn
 #EXTINF:-1 tvg-id="ctv18_twn" tvg-name="公视 CTV" group-title="台湾",公视 CTV
-https://live.catvod.com/live.php?id=ctv18_twn&token=1769385806.963f64de5588b693d96752dca344c61c8b1a7db28f3d8f7bb2e5f9be4f67baa7
+https://live.catvod.com/live.php?id=ctv18_twn
 #EXTINF:-1 tvg-id="badafirst" tvg-name="八大第一 GTV First" group-title="台湾",八大第一 GTV First
-https://live.catvod.com/live.php?id=badafirst&token=1769385806.6474c9a38af7b5be7fbd500f465fdf761b0b6fa9ce7f37428316af5994b0f6d3
+https://live.catvod.com/live.php?id=badafirst
 #EXTINF:-1 tvg-id="badazhonghe" tvg-name="八大综合 GTV Metro" group-title="台湾",八大综合 GTV Metro
-https://live.catvod.com/live.php?id=badazhonghe&token=1769385806.91ace730f99d98031618266c3c51008e66476e52b49922009fe7446face6bad1
+https://live.catvod.com/live.php?id=badazhonghe
 #EXTINF:-1 tvg-id="badadrama" tvg-name="八大戏剧 GTV Drama" group-title="台湾",八大戏剧 GTV Drama
-https://live.catvod.com/live.php?id=badadrama&token=1769385806.e465c3476194400c8da5850fa1fa5d5d58618919ab55e60815a26f7da3dba9c3
+https://live.catvod.com/live.php?id=badadrama
 #EXTINF:-1 tvg-id="badaentertain" tvg-name="八大娱乐 GTV Entertainment" group-title="台湾",八大娱乐 GTV Entertainment
-https://live.catvod.com/live.php?id=badaentertain&token=1769385806.e4f44a088bddde0ebec54747d654a1d8160743da31797241427370c033c04c52
+https://live.catvod.com/live.php?id=badaentertain
 #EXTINF:-1 tvg-id="hbohd_twn" tvg-name="HBO_HD" group-title="台湾",HBO_HD
-https://live.catvod.com/live.php?id=hbohd_twn&token=1769385806.064811adc558edb84cadeb15e09de6fc3ea63666f8316ea86a2ba00cfd1a3a7c
+https://live.catvod.com/live.php?id=hbohd_twn
 #EXTINF:-1 tvg-id="hbohits_twn" tvg-name="HBO_HITS" group-title="台湾",HBO_HITS
-https://live.catvod.com/live.php?id=hbohits_twn&token=1769385806.7c975194e1ee7004b15c51e21b97a6853c5b9fdb325f5164f114020fb92ab5c1
+https://live.catvod.com/live.php?id=hbohits_twn
 #EXTINF:-1 tvg-id="hbosignature_twn" tvg-name="HBO Signature Taiwan" group-title="台湾",HBO Signature Taiwan
-https://live.catvod.com/live.php?id=hbosignature_twn&token=1769385806.e670a69e238cf2c1bd1cf770b4833dd4981cfb33a27c17c1bd676ec479882f0b
+https://live.catvod.com/live.php?id=hbosignature_twn
 #EXTINF:-1 tvg-id="hollywoodmovies_twn" tvg-name="Hollywood Movies" group-title="台湾",Hollywood Movies
-https://live.catvod.com/live.php?id=hollywoodmovies_twn&token=1769385806.96cf3cd70fcd9432d10794f843c92f45104703341fa1eb307fa1d79a5ef93336
+https://live.catvod.com/live.php?id=hollywoodmovies_twn
 #EXTINF:-1 tvg-id="sanlitaiwan" tvg-name="三立台湾 Sanli Taiwan" group-title="台湾",三立台湾 Sanli Taiwan
-https://live.catvod.com/live.php?id=sanlitaiwan&token=1769385806.891858d5d1c3a778a6659ec084e9ace9ac7d93510782313406f9406dbf075dd2
+https://live.catvod.com/live.php?id=sanlitaiwan
 #EXTINF:-1 tvg-id="sanlixiju_twn" tvg-name="三立戏剧台" group-title="台湾",三立戏剧台
-https://live.catvod.com/live.php?id=sanlixiju_twn&token=1769385806.25eccb8a0fb94b099779758e0b265e5d34f64095ec9e6ad4939ba7b200f5eb70
+https://live.catvod.com/live.php?id=sanlixiju_twn
 #EXTINF:-1 tvg-id="sanlizhonghe" tvg-name="三立综合 Sanli Metro" group-title="台湾",三立综合 Sanli Metro
-https://live.catvod.com/live.php?id=sanlizhonghe&token=1769385806.a0c96dbb9ea107d9000b4a999548f4f8b6925ebea3afe4b9dd2e7a4ea4fbc9db
+https://live.catvod.com/live.php?id=sanlizhonghe
 #EXTINF:-1 tvg-id="sanlidouhui_twn" tvg-name="三立都会台" group-title="台湾",三立都会台
-https://live.catvod.com/live.php?id=sanlidouhui_twn&token=1769385806.df6732d43f319eddaa7e55586f23725db818dce8e2c751b3780c698fcf9de55a
+https://live.catvod.com/live.php?id=sanlidouhui_twn
 #EXTINF:-1 tvg-id="ettvzhonghe" tvg-name="东森综合 ETTV Metro" group-title="台湾",东森综合 ETTV Metro
-https://live.catvod.com/live.php?id=ettvzhonghe&token=1769385806.4db1a0e1e10b1b60bbad6d392b7a01cbe0a6bc1b5b574ea3122198dbf3f99c64
+https://live.catvod.com/live.php?id=ettvzhonghe
 #EXTINF:-1 tvg-id="ettvdrama" tvg-name="东森戏剧 ETTV Drama" group-title="台湾",东森戏剧 ETTV Drama
-https://live.catvod.com/live.php?id=ettvdrama&token=1769385806.368d49eb9eb62a9ff5fcc375fc1bb22907930d47d4758d738c0a950f7d98c75e
+https://live.catvod.com/live.php?id=ettvdrama
 #EXTINF:-1 tvg-id="ctv2_twn" tvg-name="公视2" group-title="台湾",公视2
-https://live.catvod.com/live.php?id=ctv2_twn&token=1769385806.98d44d43a39c2e4403503f602d38bf893daf9ae19814cd70c30392f293cae12d
+https://live.catvod.com/live.php?id=ctv2_twn
 #EXTINF:-1 tvg-id="daai_twn" tvg-name="大爱1台" group-title="台湾",大爱1台
-https://live.catvod.com/live.php?id=daai_twn&token=1769385806.26d8599a1c4ce8f8aa8150b13dddf3822af91c2e269fb2f1c331b00051d6bc78
+https://live.catvod.com/live.php?id=daai_twn
 #EXTINF:-1 tvg-id="lunghuaxiju_twn" tvg-name="龙华戏剧 Lunghua Drama" group-title="台湾",龙华戏剧 Lunghua Drama
-https://live.catvod.com/live.php?id=lunghuaxiju_twn&token=1769385806.e5e7d1616d35b09b69e0526b733ae6a624d8ea93656ca99277c1dd7190ae5321
+https://live.catvod.com/live.php?id=lunghuaxiju_twn
 #EXTINF:-1 tvg-id="lunghuajingdian_twn" tvg-name="龙华经典台" group-title="台湾",龙华经典台
-https://live.catvod.com/live.php?id=lunghuajingdian_twn&token=1769385806.1f1b14760ea81ae65cbd1ae28bacbe0741932d9e654ff205db9945dd9fad1226
+https://live.catvod.com/live.php?id=lunghuajingdian_twn
 #EXTINF:-1 tvg-id="lunghuaidol_twn" tvg-name="龙华偶像" group-title="台湾",龙华偶像
-https://live.catvod.com/live.php?id=lunghuaidol_twn&token=1769385806.ca675477d08edc372cb25f67c97bbb684b260e79aa57fc18b8b6e364e4b07567
+https://live.catvod.com/live.php?id=lunghuaidol_twn
 #EXTINF:-1 tvg-id="axn_twn" tvg-name="AXN Taiwan" group-title="台湾",AXN Taiwan
-https://live.catvod.com/live.php?id=axn_twn&token=1769385806.bd4a02fbab0806fed03c6f56064daecd10a651b4ad6b476359743f23a4a7db1b
+https://live.catvod.com/live.php?id=axn_twn
 #EXTINF:-1 tvg-id="jingtianintl_twn" tvg-name="靖天国际台" group-title="台湾",靖天国际台
-https://live.catvod.com/live.php?id=jingtianintl_twn&token=1769385806.825fe1e2c287701efdeccc65af4326f7482b78e7458fe3d2c0555bb8b47d5876
+https://live.catvod.com/live.php?id=jingtianintl_twn
 #EXTINF:-1 tvg-id="cinemax_twn" tvg-name="CINEMAX" group-title="台湾",CINEMAX
-https://live.catvod.com/live.php?id=cinemax_twn&token=1769385806.898e8298c4460479a4f9a46dde034f33b5d561e256b2b6a8f97372bf8839bc5d
+https://live.catvod.com/live.php?id=cinemax_twn
 #EXTINF:-1 tvg-id="niandainews_twn" tvg-name="年代新闻" group-title="台湾",年代新闻
-https://live.catvod.com/live.php?id=niandainews_twn&token=1769385806.5963a18576e4f558a8ee758490f11300d0595b55786559db6ffa83b397162ab8
+https://live.catvod.com/live.php?id=niandainews_twn
 #EXTINF:-1 tvg-id="videolandjapan" tvg-name="纬来日本台" group-title="台湾",纬来日本台
-https://live.catvod.com/live.php?id=videolandjapan&token=1769385806.1ee7657252ac2fa1318fdd07e753422e656b7ca7f9619bfe5c479c003cf7df6a
+https://live.catvod.com/live.php?id=videolandjapan
 #EXTINF:-1 tvg-id="videolandmovie" tvg-name="纬来电影台" group-title="台湾",纬来电影台
-https://live.catvod.com/live.php?id=videolandmovie&token=1769385806.29986d66fd36810a2fb5020a1d36cb7f6c6bf6b8ba4d6c56b2e162f3fb631328
+https://live.catvod.com/live.php?id=videolandmovie
 #EXTINF:-1 tvg-id="videolandsport" tvg-name="纬来体育台" group-title="台湾",纬来体育台
-https://live.catvod.com/live.php?id=videolandsport&token=1769385806.a600671c683e6eb97ba0c5f7783f6d04161f05bb79d52893554f01ea5b0f1394
+https://live.catvod.com/live.php?id=videolandsport
 #EXTINF:-1 tvg-id="videolandzonghe" tvg-name="纬来综合台" group-title="台湾",纬来综合台
-https://live.catvod.com/live.php?id=videolandzonghe&token=1769385806.79e0ac1077aa7ca76f66aabe7653d063c3cae195451155d96727026a7357904b
+https://live.catvod.com/live.php?id=videolandzonghe
 #EXTINF:-1 tvg-id="videolandmax" tvg-name="纬来育乐" group-title="台湾",纬来育乐
-https://live.catvod.com/live.php?id=videolandmax&token=1769385806.98ff691905e76082faa225d1dc808c314a5c7d29cf40682aa337ca3a831491e2
+https://live.catvod.com/live.php?id=videolandmax
 #EXTINF:-1 tvg-id="videolandtv" tvg-name="纬来精彩" group-title="台湾",纬来精彩
-https://live.catvod.com/live.php?id=videolandtv&token=1769385806.75035dd22eece0790d3d8087f0a390665942612f8db7199e92da8340644f67fd
+https://live.catvod.com/live.php?id=videolandtv
 #EXTINF:-1 tvg-id="dw_twn" tvg-name="DW (Deutsch)" group-title="台湾",DW (Deutsch)
-https://live.catvod.com/live.php?id=dw_twn&token=1769385806.58517109118de7046cabd06b65c1fc67b33f5ca6d61bd510f1196dc7d61e11b0
+https://live.catvod.com/live.php?id=dw_twn
 #EXTINF:-1 tvg-id="good2_twn" tvg-name="好消息 2" group-title="台湾",好消息 2
-https://live.catvod.com/live.php?id=good2_twn&token=1769385806.757bb0525b28100b85649694672b90cf3f0574fda11db632423ff6ce5edc6dde
+https://live.catvod.com/live.php?id=good2_twn
 #EXTINF:-1 tvg-id="daai2_twn" tvg-name="大爱2台" group-title="台湾",大爱2台
-https://live.catvod.com/live.php?id=daai2_twn&token=1769385806.95b6397c22bb54de1c2f5b20a492dd59021a6dd05ef2f83141bc183af247e6e4
+https://live.catvod.com/live.php?id=daai2_twn
 #EXTINF:-1 tvg-id="afc_twn" tvg-name="亚洲美食" group-title="台湾",亚洲美食
-https://live.catvod.com/live.php?id=afc_twn&token=1769385806.cd3a25a3707d9abb1d02cd8eff1d822ae9d02f0a3a072fcefc3c41590c2c64a2
+https://live.catvod.com/live.php?id=afc_twn
 #EXTINF:-1 tvg-id="tlc_twn" tvg-name="亚洲旅游 TLC Asia" group-title="台湾",亚洲旅游 TLC Asia
-https://live.catvod.com/live.php?id=tlc_twn&token=1769385806.ba7461cf68470b5bfa0e2fd56087c7d68b41347ceb592913b93a493c4e1fa246
+https://live.catvod.com/live.php?id=tlc_twn
 #EXTINF:-1 tvg-id="ettvmovie" tvg-name="东森电影 ETTV Movie" group-title="台湾",东森电影 ETTV Movie
-https://live.catvod.com/live.php?id=ettvmovie&token=1769385806.5b9f0deb5dd21cb55846276c49479d2540e3126f22130c2ab3c4d3bc2328c08b
+https://live.catvod.com/live.php?id=ettvmovie
 #EXTINF:-1 tvg-id="arirang_twn" tvg-name="阿里郎 Arirang" group-title="台湾",阿里郎 Arirang
-https://live.catvod.com/live.php?id=arirang_twn&token=1769385806.d21f0c38c18fb8c3fd57391f4f6890ce40870cbc1479c55a18b70c9333128d70
+https://live.catvod.com/live.php?id=arirang_twn
 #EXTINF:-1 tvg-id="bosisport1_twn" tvg-name="博斯运动 1" group-title="台湾",博斯运动 1
-https://live.catvod.com/live.php?id=bosisport1_twn&token=1769385806.547a3885832f1b9204405af380db58424b4a47956a1785ce7de0ad69040cffb4
+https://live.catvod.com/live.php?id=bosisport1_twn
 #EXTINF:-1 tvg-id="bosisport2_twn" tvg-name="博斯运动 2" group-title="台湾",博斯运动 2
-https://live.catvod.com/live.php?id=bosisport2_twn&token=1769385806.73e0431fd5315bfad312ccca1cf30fbb48dfbe755ae6fd3a6b867fd52ac480b1
+https://live.catvod.com/live.php?id=bosisport2_twn
 #EXTINF:-1 tvg-id="bosigolf2_twn" tvg-name="博斯高球2 HD" group-title="台湾",博斯高球2 HD
-https://live.catvod.com/live.php?id=bosigolf2_twn&token=1769385806.8663275295ceabcd35584f950b0b352e998b4724315d85b855cb754a3a78cafb
+https://live.catvod.com/live.php?id=bosigolf2_twn
 #EXTINF:-1 tvg-id="bositennis_twn" tvg-name="博斯网球 HD" group-title="台湾",博斯网球 HD
-https://live.catvod.com/live.php?id=bositennis_twn&token=1769385806.778e414118bb6932f46fbd71de499c92a1db96de5c58006ac3ab208c01a3a04f
+https://live.catvod.com/live.php?id=bositennis_twn
 #EXTINF:-1 tvg-id="ettvwestern" tvg-name="东森洋片 ETTV Western" group-title="台湾",东森洋片 ETTV Western
-https://live.catvod.com/live.php?id=ettvwestern&token=1769385806.1f802e4a6ea217804db339cb465fe429bfa3ce6c7e9bd7f0029fe3d9c10cbe6c
+https://live.catvod.com/live.php?id=ettvwestern
 #EXTINF:-1 tvg-id="lunghuawestern_twn" tvg-name="龙华洋片 Lunghua Western" group-title="台湾",龙华洋片 Lunghua Western
-https://live.catvod.com/live.php?id=lunghuawestern_twn&token=1769385806.fdf2ed91c5f9848ceae967db0b7278bd6a86285b168b34188c190ccd6d2e705b
+https://live.catvod.com/live.php?id=lunghuawestern_twn
 #EXTINF:-1 tvg-id="bosiunlimited_twn" tvg-name="博斯无限" group-title="台湾",博斯无限
-https://live.catvod.com/live.php?id=bosiunlimited_twn&token=1769385806.965839d954f25daef9a9daafaf1474b7fd6d81ade34c401426cf198fc36eb0bf
+https://live.catvod.com/live.php?id=bosiunlimited_twn
 #EXTINF:-1 tvg-id="mtvhd_twn" tvg-name="MTV Live" group-title="台湾",MTV Live
-https://live.catvod.com/live.php?id=mtvhd_twn&token=1769385806.668106798b83029006ec6be0e49eb377a6bdbb5be6282ea6ae25f8bc3f51f868
+https://live.catvod.com/live.php?id=mtvhd_twn
 #EXTINF:-1 tvg-id="lungxiangtime_twn" tvg-name="龙详时代" group-title="台湾",龙详时代
-https://live.catvod.com/live.php?id=lungxiangtime_twn&token=1769385806.1d06b0342ba13c15d490189a3bfafa36c6eaa49cff9242fd22231b71606bc144
+https://live.catvod.com/live.php?id=lungxiangtime_twn
 #EXTINF:-1 tvg-id="eyetvtravel_twn" tvg-name="EYETV 旅游" group-title="台湾",EYETV 旅游
-https://live.catvod.com/live.php?id=eyetvtravel_twn&token=1769385806.8c04a4445fe28e5fccbc7fcf4c22d508b74ac76e78d121cd1f5f65c8ae598f70
+https://live.catvod.com/live.php?id=eyetvtravel_twn
 #EXTINF:-1 tvg-id="jingtiancartoon_twn" tvg-name="靖天卡通台" group-title="台湾",靖天卡通台
-https://live.catvod.com/live.php?id=jingtiancartoon_twn&token=1769385806.353b999014774a1592a6a9886efacc74193efdb432d6abce60f4248ec64f5f9b
+https://live.catvod.com/live.php?id=jingtiancartoon_twn
 #EXTINF:-1 tvg-id="eyetvxiju_twn" tvg-name="EYETV 戏剧" group-title="台湾",EYETV 戏剧
-https://live.catvod.com/live.php?id=eyetvxiju_twn&token=1769385806.17a76b400716ba729f7e51d572a777f2e4bd7c262d8bea8a45e358c6fec3e8df
+https://live.catvod.com/live.php?id=eyetvxiju_twn
 #EXTINF:-1 tvg-id="weishichinese_twn" tvg-name="卫视中文台 Star Movies Chinese" group-title="台湾",卫视中文台 Star Movies Chinese
-https://live.catvod.com/live.php?id=weishichinese_twn&token=1769385806.a3274869ee2a53614aa53fa67668877582a7a02f3f60d060d2a2f47fa1ed0f94
+https://live.catvod.com/live.php?id=weishichinese_twn
 #EXTINF:-1 tvg-id="yoyo_twn" tvg-name="东森幼幼 Yoyo TV" group-title="台湾",东森幼幼 Yoyo TV
-https://live.catvod.com/live.php?id=yoyo_twn&token=1769385806.74cff39c5eb762be34fef7a3e945642293fd4f8689be63783b55992305fd2ea1
+https://live.catvod.com/live.php?id=yoyo_twn
 #EXTINF:-1 tvg-id="meiyamovie_twn" tvg-name="美亚电影" group-title="台湾",美亚电影
-https://live.catvod.com/live.php?id=meiyamovie_twn&token=1769385806.35e24b08fecc45fcc2f6e1a84f7db7e44165efa9dd48668e38838563497f5b4d
+https://live.catvod.com/live.php?id=meiyamovie_twn
 #EXTINF:-1 tvg-id="eltadrama_twn" tvg-name="爱尔达戏剧台" group-title="台湾",爱尔达戏剧台
-https://live.catvod.com/live.php?id=eltadrama_twn&token=1769385806.7d8a0770fa155ee7b5ed6e516709cc1ad124c17abe7b554fc56fb2193dd053ff
+https://live.catvod.com/live.php?id=eltadrama_twn
 #EXTINF:-1 tvg-id="tvbs_n" tvg-name="TVBS News 新聞台" group-title="台湾",TVBS News 新聞台
-https://live.catvod.com/live.php?id=tvbs_n&token=1769385806.a3dc407ca64ef2d792ca82c81c5745288aaca73071681fd14f550b5513835de7
+https://live.catvod.com/live.php?id=tvbs_n
 #EXTINF:-1 tvg-id="Afc" tvg-name="Asia Food Network" group-title="台湾",Asia Food Network
-https://live.catvod.com/live.php?id=Afc&token=1769385806.3ba87a5981187e39b1e5e49ac94950ceb7c9cd1cac4dd1dd9abadf7ea67ebccc
+https://live.catvod.com/live.php?id=Afc
 #EXTINF:-1 tvg-id="ettvnews" tvg-name="東森新聞 ETTV News" group-title="台湾",東森新聞 ETTV News
-https://live.catvod.com/live.php?id=ettvnews&token=1769385806.8a12e6fe3798c42ee580ec79d4dff0e49c50a6db0b21ffc08e94c7aeea842f22
+https://live.catvod.com/live.php?id=ettvnews
 #EXTINF:-1 tvg-id="ettvcaijing_twn" tvg-name="東森財經新聞 ETTV Business" group-title="台湾",東森財經新聞 ETTV Business
-https://live.catvod.com/live.php?id=ettvcaijing_twn&token=1769385806.e66cc39f2debbae2efa1a69803eb4991ba890bccab6b00d054c5c10d9d7d4389
+https://live.catvod.com/live.php?id=ettvcaijing_twn
 #EXTINF:-1 tvg-id="ctinews" tvg-name="中天新聞 CTI News" group-title="台湾",中天新聞 CTI News
-https://live.catvod.com/live.php?id=ctinews&token=1769385806.c93b70d0c45ce147c6ad5e86ecffc0685a9c7d62c8531b89ae71d21ccbc07687
+https://live.catvod.com/live.php?id=ctinews
 #EXTINF:-1 tvg-id="feifannews_twn" tvg-name="非凡新聞台" group-title="台湾",非凡新聞台
-https://live.catvod.com/live.php?id=feifannews_twn&token=1769385806.b5167449a13fdcc884b5f431473849017df1863e1df0db1b85ff717beb91388c
+https://live.catvod.com/live.php?id=feifannews_twn
 #EXTINF:-1 tvg-id="ttvnews_twn" tvg-name="台視新聞台 TTV News" group-title="台湾",台視新聞台 TTV News
-https://live.catvod.com/live.php?id=ttvnews_twn&token=1769385806.50ce45d3a6b57bbd6acd3f3ee469cbab1918dbc1883c01707ab9e291a6b4bea1
+https://live.catvod.com/live.php?id=ttvnews_twn
 #EXTINF:-1 tvg-id="eltasport1_twn" tvg-name="Elta体育1台" group-title="台湾",Elta体育1台
-https://live.catvod.com/live.php?id=eltasport1_twn&token=1769385806.3f9b1194a23b313da47cfed3cd0c473959b33f7ad2a42eb33a1e573ebbd6e2e5
+https://live.catvod.com/live.php?id=eltasport1_twn
 #EXTINF:-1 tvg-id="eltasport2_twn" tvg-name="Elta體育2台" group-title="台湾",Elta體育2台
-https://live.catvod.com/live.php?id=eltasport2_twn&token=1769385806.6c1552441d95927bcdb0a2a44a2fb83e97dbeab4094459bb8b86553cf26fcaa9
+https://live.catvod.com/live.php?id=eltasport2_twn
 #EXTINF:-1 tvg-id="eltasport3_twn" tvg-name="Elta體育3台" group-title="台湾",Elta體育3台
-https://live.catvod.com/live.php?id=eltasport3_twn&token=1769385806.c814a4d43081e063934b097f067abf2c9d6d19a6fd153d5ad0182447b2272366
+https://live.catvod.com/live.php?id=eltasport3_twn
 #EXTINF:-1 tvg-id="ftvnew_taiwan" tvg-name="民視新聞台 FTV News" group-title="台湾",民視新聞台 FTV News
-https://live.catvod.com/live.php?id=ftvnew_taiwan&token=1769385806.074b7dcde12fc5a54c4531593f3090886030e8dce7fd8a8496df141812ae91d0
+https://live.catvod.com/live.php?id=ftvnew_taiwan
 #EXTINF:-1 tvg-id="huanyuxinwen_twn" tvg-name="寰宇新聞台" group-title="台湾",寰宇新聞台
-https://live.catvod.com/live.php?id=huanyuxinwen_twn&token=1769385806.26d5846a85b9aeca0f7e9ceb2e2900e0f5822d759e8665cdfc115c63244f9658
+https://live.catvod.com/live.php?id=huanyuxinwen_twn
 #EXTINF:-1 tvg-id="zhongshinews_twn" tvg-name="中視新聞台" group-title="台湾",中視新聞台
-https://live.catvod.com/live.php?id=zhongshinews_twn&token=1769385806.cc04458e67f05374458f03457c9e6b8e6a492337ce2f479009e63c1f9f0ceb27
+https://live.catvod.com/live.php?id=zhongshinews_twn
 #EXTINF:-1 tvg-id="dazn1_twn" tvg-name="DAZN 1" group-title="台湾",DAZN 1
-https://live.catvod.com/live.php?id=dazn1_twn&token=1769385806.ef82e10bb408fb51c5466b948ff2c3ace04bde4620a83076a778f6abd7f8714f
+https://live.catvod.com/live.php?id=dazn1_twn
 #EXTINF:-1 tvg-id="dazn2_twn" tvg-name="DAZN 2" group-title="台湾",DAZN 2
-https://live.catvod.com/live.php?id=dazn2_twn&token=1769385806.91a28b6056f35373d16a35aa2d6d45b56200591d4694843222d96fea3f718560
+https://live.catvod.com/live.php?id=dazn2_twn
 #EXTINF:-1 tvg-id="discoverych_twn" tvg-name="探索频道" group-title="台湾",探索频道
-https://live.catvod.com/live.php?id=discoverych_twn&token=1769385806.8f1b967f51400f7ed8f1d260f1531c38e2d39d7f146a228b1d5d974f647cd64a
+https://live.catvod.com/live.php?id=discoverych_twn
 
-#EXTINF:-1 tvg-id="fct002" tvg-name="翡翠台" group-title="香港",翡翠台
-https://live.catvod.com/live.php?id=fct002&token=1769385806.ed421b8c0fd6ccc5b92d4addaf47b8fb6b537d5191aa917f570b7b046c42bf61
-#EXTINF:-1 tvg-id="fct003" tvg-name="翡翠台" group-title="香港",翡翠台
-https://live.catvod.com/live.php?id=fct003&token=1769385806.76d0763afdc27423035f3967b85b16c8270751b779875b5eaabd5c31e40953a0
-#EXTINF:-1 tvg-id="fct004" tvg-name="翡翠台" group-title="香港",翡翠台
-https://live.catvod.com/live.php?id=fct004&token=1769385806.d4d1b679f6bf3507ea733a56c001b288e67f4f4e057514f28ad306b691ae2a74
-#EXTINF:-1 tvg-id="mzt001" tvg-name="明珠台" group-title="香港",明珠台
-https://live.catvod.com/live.php?id=mzt001&token=1769385806.9f5c4c192430222ecb2664f2c0aff9cf7a191167c30dd7ddeaac8509e06611f4
-#EXTINF:-1 tvg-id="j1na001" tvg-name="TVB J1" group-title="香港",TVB J1
-https://live.catvod.com/live.php?id=j1na001&token=1769385806.32ec0b1ffe4f9d965d48cb8da8ef880b8f7744d54bfaed03ae0edc7fbd4ee7d2
-#EXTINF:-1 tvg-id="tvbplus2" tvg-name="TVB Plus" group-title="香港",TVB Plus
-https://live.catvod.com/live.php?id=tvbplus2&token=1769385806.906c899b16d950ee415532df5e17889ebc0f99ceb0e3d5705463daba941e979c
-#EXTINF:-1 tvg-id="tvbxw01" tvg-name="无线新闻" group-title="香港",无线新闻
-https://live.catvod.com/live.php?id=tvbxw01&token=1769385806.e68aa370b6a72ee558e04082890075530bbc02cf07fed32d2501acd8c51ea60b
-#EXTINF:-1 tvg-id="viutv02" tvg-name="VIU TV" group-title="香港",VIU TV
-https://live.catvod.com/live.php?id=viutv02&token=1769385806.1ae784e4cf35318fa30ecba87f214f6a202600b566278f0ceaa0d731fc67206e
-#EXTINF:-1 tvg-id="hoytv01" tvg-name="HOY TV" group-title="香港",HOY TV
-https://live.catvod.com/live.php?id=hoytv01&token=1769385806.a06a7fb7aeada82f90457b6b7754f2f8f0292b612afb3886b7cc9ab383e229f0
-#EXTINF:-1 tvg-id="hoytv02" tvg-name="HOY TV" group-title="香港",HOY TV
-https://live.catvod.com/live.php?id=hoytv02&token=1769385806.3c442e24a5345b8e1f669a183e711bbcf2a266c69bb411740f94cfe6e5a80037
-#EXTINF:-1 tvg-id="hoyjj01" tvg-name="HOY剧集台" group-title="香港",HOY剧集台
-https://live.catvod.com/live.php?id=hoyjj01&token=1769385806.b7972d6aa183b1cf87da03de981596d027f236921db3444ff22bcdf0185238b0
-#EXTINF:-1 tvg-id="phzw01" tvg-name="凤凰中文" group-title="香港",凤凰中文
-https://live.catvod.com/live.php?id=phzw01&token=1769385806.23398f26820e78345728624bcc73ebd9ae4cc72b2b1075fc8cd267f89a3e7e83
-#EXTINF:-1 tvg-id="phzx01" tvg-name="凤凰资讯" group-title="香港",凤凰资讯
-https://live.catvod.com/live.php?id=phzx01&token=1769385806.8e4c42488fac4a3bb222e7769377b955490f32f1e3cdf9c1314be6178e0a8766
-#EXTINF:-1 tvg-id="fhhk01" tvg-name="凤凰香港" group-title="香港",凤凰香港
-https://live.catvod.com/live.php?id=fhhk01&token=1769385806.69230e95d3ec0232ee367dcf6e475a18e2f965624f79170d07071c9c91374f50
-#EXTINF:-1 tvg-id="cwjd01" tvg-name="重温经典" group-title="香港",重温经典
-https://live.catvod.com/live.php?id=cwjd01&token=1769385806.99c23e418b3a2d33ff796d61183d1aa0bd195a036f005a1277de747b1038485d
-#EXTINF:-1 tvg-id="gdzj01" tvg-name="广东珠江" group-title="香港",广东珠江
-https://live.catvod.com/live.php?id=gdzj01&token=1769385806.672c9a77392db6941907d866c28c619dd7778c82c35543115c407873efc746c7
-#EXTINF:-1 tvg-id="gdty01" tvg-name="广东体育" group-title="香港",广东体育
-https://live.catvod.com/live.php?id=gdty01&token=1769385806.bedf374a5e2e7cece81a8ecf5cb96122cb08450b38ecfd643aa36c40358c2997
-#EXTINF:-1 tvg-id="asam01" tvg-name="澳视澳门" group-title="香港",澳视澳门
-https://live.catvod.com/live.php?id=asam01&token=1769385806.f96d7b10f71911ecdeac16dc5c2dc81433b80ae335fed93e4b78fdf66cad10d0
-#EXTINF:-1 tvg-id="asws01" tvg-name="澳视卫星" group-title="香港",澳视卫星
-https://live.catvod.com/live.php?id=asws01&token=1769385806.687945ac91c9d131aa8f521ba1a77b7bddd686ff557834f384d14d99f0706d72
-#EXTINF:-1 tvg-id="amty01" tvg-name="澳门体育" group-title="香港",澳门体育
-https://live.catvod.com/live.php?id=amty01&token=1769385806.6be7d6f76e0cce0c94955dcbcdb3ea59616d6992cbd39e1af1e27cab79421a57
-#EXTINF:-1 tvg-id="amzy01" tvg-name="澳门综艺" group-title="香港",澳门综艺
-https://live.catvod.com/live.php?id=amzy01&token=1769385806.4e3bb8e78fd8509a036ffc0c4032e0da145daa9b7fa1a87dcc7eae28916a757d
-#EXTINF:-1 tvg-id="amlh01" tvg-name="澳门莲花" group-title="香港",澳门莲花
-https://live.catvod.com/live.php?id=amlh01&token=1769385806.256b3c8a97f0eec1882f8722c6b66354bfa628bc38ef4ea14cc05ce499cb4099
-#EXTINF:-1 tvg-id="rthk31" tvg-name="RTHK31" group-title="香港",RTHK31
-https://live.catvod.com/live.php?id=rthk31&token=1769385806.981061ea436505f75e1982330d995d634a13d97aae3add241725e7e0d4eb6eca
-#EXTINF:-1 tvg-id="rthk32" tvg-name="RTHK32" group-title="香港",RTHK32
-https://live.catvod.com/live.php?id=rthk32&token=1769385806.b775dfba7ff16c9aa9a301b86b0c07f0a3fc8abbcef253dad8004230bb51dbd2
-#EXTINF:-1 tvg-id="rthk33" tvg-name="CCTV1港澳版" group-title="香港",CCTV1港澳版
-https://live.catvod.com/live.php?id=rthk33&token=1769385806.b5e98f03d76602c1a9cdaead9638fc0ff5b61babc51622a07044e7172f7d00e4
-#EXTINF:-1 tvg-id="8tv001" tvg-name="八度空间" group-title="香港",八度空间
-https://live.catvod.com/live.php?id=8tv001&token=1769385806.eb6f4315503b54eaff754c84a71e17fbd7fcb982e999c0d462f910b734798312
-#EXTINF:-1 tvg-id="ch5001" tvg-name="CH5" group-title="香港",CH5
-https://live.catvod.com/live.php?id=ch5001&token=1769385806.8b1aeff07997a4bad65b90467813c8c9335969f7bdd48386fc8b9f9d3bdc6367
-#EXTINF:-1 tvg-id="ch8001" tvg-name="CH8" group-title="香港",CH8
-https://live.catvod.com/live.php?id=ch8001&token=1769385806.c92daa3221f665d1ea7110339d15df790d12fbfa876ede94c502d7d82c7980db
-#EXTINF:-1 tvg-id="chu001" tvg-name="CHU" group-title="香港",CHU
-https://live.catvod.com/live.php?id=chu001&token=1769385806.b3baade33fe8fce7be732cab3c89820a9e1e2bd718b48b7c49d0850223aa3b12
-#EXTINF:-1 tvg-id="lhdy01" tvg-name="龙华电影" group-title="香港",龙华电影
-https://live.catvod.com/live.php?id=lhdy01&token=1769385806.49eda12e16d1dd864b4a02f81a5fd0d6a43d57251598c5ffaed4309f011ee6e4
-#EXTINF:-1 tvg-id="lhjd01" tvg-name="龙华经典" group-title="香港",龙华经典
-https://live.catvod.com/live.php?id=lhjd01&token=1769385806.bd26bddc5a421f2a3acddd81e4248c6e6c66535c0f7294150bfbbc45342e5eee
-#EXTINF:-1 tvg-id="lhkt01" tvg-name="龙华卡通" group-title="香港",龙华卡通
-https://live.catvod.com/live.php?id=lhkt01&token=1769385806.593b50c288467e1df4731045b65d32daaee75cc5b45ff936378df0d5e2cc92e2
-#EXTINF:-1 tvg-id="lhox01" tvg-name="龙华偶像" group-title="香港",龙华偶像
-https://live.catvod.com/live.php?id=lhox01&token=1769385806.b80c4fdf469de0e0fa3c5840f7c9ee9433901f707b79c00bba5015120bf3d2f4
-#EXTINF:-1 tvg-id="lhrh01" tvg-name="龙华日韩" group-title="香港",龙华日韩
-https://live.catvod.com/live.php?id=lhrh01&token=1769385806.2e43c7e5ac6ae8720793aa5275290e279d8e36609a8bbad37f3d68ad5f207768
-#EXTINF:-1 tvg-id="lhxj01" tvg-name="龙华戏剧" group-title="香港",龙华戏剧
-https://live.catvod.com/live.php?id=lhxj01&token=1769385806.c2b57eaf702cd83f5aa7669e99ec1779fa00646652b61a9b79ec3d6c4c07f4d4
-#EXTINF:-1 tvg-id="lhyp01" tvg-name="龙华洋片" group-title="香港",龙华洋片
-https://live.catvod.com/live.php?id=lhyp01&token=1769385806.d019f7ffad6b01e73d49c89c7cc6ca5998547f2b8860e841df2c8c6d4455edea
-#EXTINF:-1 tvg-id="huali02" tvg-name="华丽翡翠台" group-title="香港",华丽翡翠台
-https://live.catvod.com/live.php?id=huali02&token=1769385806.35efbd9121abecce56cf2e9c036afc2232006934d1bc23b80e9375859e11d2f9
-#EXTINF:-1 tvg-id="yzwx01" tvg-name="亚洲武侠" group-title="香港",亚洲武侠
-https://live.catvod.com/live.php?id=yzwx01&token=1769385806.072f04f035582b33162bd65e5db39ff36f6a8ff7c7aaa997170b66e585b51d20
-#EXTINF:-1 tvg-id="tvbylxw" tvg-name="TVB娱乐新闻台" group-title="香港",TVB娱乐新闻台
-https://live.catvod.com/live.php?id=tvbylxw&token=1769385806.04b5bddebb8ab410a5a752d8b9a4dcde94197053ac8192c470b33b2e733d6365
-#EXTINF:-1 tvg-id="wxxw01" tvg-name="无线新闻台" group-title="香港",无线新闻台
-https://live.catvod.com/live.php?id=wxxw01&token=1769385806.7ced898b7407d3d97ea034be9a21bb63d780a6b3d65301f6f89be32f7bc2715d
-#EXTINF:-1 tvg-id="xinghe01" tvg-name="TVB星河" group-title="香港",TVB星河
-https://live.catvod.com/live.php?id=xinghe01&token=1769385806.63c0bdc77c7d1916462b985924fb4b1c8e91d6ea417b930e1ce15a75ba8d992b
-#EXTINF:-1 tvg-id="nownews" tvg-name="Now新闻台" group-title="香港",Now新闻台
-https://live.catvod.com/live.php?id=nownews&token=1769385806.749e5282cfe73564b9cd853e2b57f201a6196036c37efa53952f0ab3d2623fc1
-#EXTINF:-1 tvg-id="fct4k01" tvg-name="翡翠台4K" group-title="香港",翡翠台4K
-https://live.catvod.com/live.php?id=fct4k01&token=1769385806.67676896c404a648cc1481f3ff4580fe4fc42080dfe18ad71f6dd0087e919258
-#EXTINF:-1 tvg-id="fctsub" tvg-name="翡翠台（字幕）" group-title="香港",翡翠台（字幕）
-https://live.catvod.com/live.php?id=fctsub&token=1769385806.09c757dc455d1f16f871f664309a2d3398323c752347b63d9aef71b35fa73b43
-#EXTINF:-1 tvg-id="mztsub" tvg-name="明珠台（字幕）" group-title="香港",明珠台（字幕）
-https://live.catvod.com/live.php?id=mztsub&token=1769385806.7cf860b2b64358cbd9d40b9b75571e49d1a6dc052108caae6bd61b3c1d1847f4
-#EXTINF:-1 tvg-id="tvb1" tvg-name="TVB1" group-title="香港",TVB1
-https://live.catvod.com/live.php?id=tvb1&token=1769385806.5a858eddf7d6764bdaf2106badd6704f51f27c43c74672c3350b847de18f1fec
-#EXTINF:-1 tvg-id="tvbd01" tvg-name="翡翠剧集台" group-title="香港",翡翠剧集台
-https://live.catvod.com/live.php?id=tvbd01&token=1769385806.3627321fd96e95acff88ad03c81ba0c496ff7796fac41eae8d220aba477e870f
-#EXTINF:-1 tvg-id="cctv13" tvg-name="CCTV13" group-title="香港",CCTV13
-https://live.catvod.com/live.php?id=cctv13&token=1769385806.120ba7235a4d56c0de0aa7f63caff8b43a4a17dc41c095122f331ba011c40f36
-#EXTINF:-1 tvg-id="szws4k" tvg-name="深圳卫视4K" group-title="香港",深圳卫视4K
-https://live.catvod.com/live.php?id=szws4k&token=1769385806.9ef453e02feadd847bd8e8395f9c1c7dd481d7f54e930be2ab53be4edb04ae58
-#EXTINF:-1 tvg-id="szcjsh" tvg-name="深圳财经生活" group-title="香港",深圳财经生活
-https://live.catvod.com/live.php?id=szcjsh&token=1769385806.885195c1808e7f454bea6fe126b6efd141bbc470e07b3876afdc0bb84bd5e648
-#EXTINF:-1 tvg-id="dycj01" tvg-name="第一财经" group-title="香港",第一财经
-https://live.catvod.com/live.php?id=dycj01&token=1769385806.7df2c78a9b2519fb97e82f4d4c7fdd6cc5ec2e17dd3804d340c2715851073f86
-#EXTINF:-1 tvg-id="wxty01" tvg-name="五星体育" group-title="香港",五星体育
-https://live.catvod.com/live.php?id=wxty01&token=1769385806.99386240ee65ee81525bea8ddd41cc7088f43b0368132452c8a6abeb90a8422d
-#EXTINF:-1 tvg-id="fct4k02" tvg-name="翡翠台4K（多音轨字幕）" group-title="香港",翡翠台4K（多音轨字幕）
-https://live.catvod.com/live.php?id=fct4k02&token=1769385806.2f7eeb1baa8ab1a8c4363aa71a74cc4a958dc38f9ebef02ac5f688c20e9a3b33
-#EXTINF:-1 tvg-id="fct005" tvg-name="翡翠台（多音轨字幕）" group-title="香港",翡翠台（多音轨字幕）
-https://live.catvod.com/live.php?id=fct005&token=1769385806.594e213fb73a0e46280a0a76dc348c7c60650d068efc95d7e804538b93351a69
-#EXTINF:-1 tvg-id="tvbplus3" tvg-name="TVB Plus（多音轨字幕）" group-title="香港",TVB Plus（多音轨字幕）
-https://live.catvod.com/live.php?id=tvbplus3&token=1769385806.f09b82fb7d7143d87f24fe92f08daa1aabf069b14c6cc988182139bac7b02b38
-#EXTINF:-1 tvg-id="mzt002" tvg-name="明珠台（多音轨字幕）" group-title="香港",明珠台（多音轨字幕）
-https://live.catvod.com/live.php?id=mzt002&token=1769385806.be7196baf684e0537fbcf80656b70b68665992347621716a93807f373b85a27a
-#EXTINF:-1 tvg-id="huali03" tvg-name="华丽翡翠台（多音轨字幕）" group-title="香港",华丽翡翠台（多音轨字幕）
-https://live.catvod.com/live.php?id=huali03&token=1769385806.13813b9c444a8d87e6226eed9be85ad5ab6aaf56f85e3081d1f91d7913f15f4f
-#EXTINF:-1 tvg-id="huali04" tvg-name="华丽翡翠台（新加坡）" group-title="香港",华丽翡翠台（新加坡）
-https://live.catvod.com/live.php?id=huali04&token=1769385806.5f0962c53788d518b6597fd51eb55001f1676101dfeb22861d646b0c9b686c56
-#EXTINF:-1 tvg-id="asoda01" tvg-name="Astro AOD（多音轨字幕）" group-title="香港",Astro AOD（多音轨字幕）
-https://live.catvod.com/live.php?id=asoda01&token=1769385806.a248af75e8424a398e39d3ae102c94e0a251d6a06f5d85a50c7d9e862d8b4838
-#EXTINF:-1 tvg-id="asaec01" tvg-name="Astro AEC（多音轨字幕）" group-title="香港",Astro AEC（多音轨字幕）
-https://live.catvod.com/live.php?id=asaec01&token=1769385806.d46366c2907d5de1db4e22df34300bd4489334043f47f2c33c037ae2f06abc60
-#EXTINF:-1 tvg-id="asaqj01" tvg-name="Astro QJ（多音轨字幕）" group-title="香港",Astro QJ（多音轨字幕）
-https://live.catvod.com/live.php?id=asaqj01&token=1769385806.c9643a90c700cb4c1ed6797d90a369d6acfd77eee09aa1c4c9b4f0b1190349cb
-#EXTINF:-1 tvg-id="tvbxh01" tvg-name="TVB星河（多音轨字幕）" group-title="香港",TVB星河（多音轨字幕）
-https://live.catvod.com/live.php?id=tvbxh01&token=1769385806.1cfbccb3932d71f9d7585c3594e320b7070b5cce4c36e343aa6bbbc53163ebd4
-#EXTINF:-1 tvg-id="iqiyi01" tvg-name="爱奇艺" group-title="香港",爱奇艺
-https://live.catvod.com/live.php?id=iqiyi01&token=1769385806.25a731dec8f6a45293f9412bbc4bad894f693373faac4d6fdd80673318437fbe
-#EXTINF:-1 tvg-id="tvbc01" tvg-name="千禧经典台" group-title="香港",千禧经典台
-https://live.catvod.com/live.php?id=tvbc01&token=1769385806.f295b9468b7a9e1afc951cb549f6b53eacdeb2a8fb148a81acd081bce12dee4e
-#EXTINF:-1 tvg-id="typd02" tvg-name="天映频道（多音轨字幕）" group-title="香港",天映频道（多音轨字幕）
-https://live.catvod.com/live.php?id=typd02&token=1769385806.7a6d0fe9dd75cf18acbe1d05b8ffbb77f1f799053df70e18d0834c63ffbffe5e
-#EXTINF:-1 tvg-id="hxws01" tvg-name="海峡卫视" group-title="香港",海峡卫视
-https://live.catvod.com/live.php?id=hxws01&token=1769385806.bea94c359075a189332ec8f8cf57cc2e522a4c7d8bc15b9969c20d7025e83bfc
-#EXTINF:-1 tvg-id="xinghe02" tvg-name="TVB星河（国语）" group-title="香港",TVB星河（国语）
-https://live.catvod.com/live.php?id=xinghe02&token=1769385806.c9bd971b17c094e5468990390c6992897eca8515d2f12541a7e02cf2e5a5927a
-#EXTINF:-1 tvg-id="typd03" tvg-name="天映频道" group-title="香港",天映频道
-https://live.catvod.com/live.php?id=typd03&token=1769385806.d42b81818cf8069a8e5f84e29df893f2e3eb4edd3b5e2d5f9b0f309d062d92a6
-#EXTINF:-1 tvg-id="ccm01" tvg-name="天映经典" group-title="香港",天映经典
-https://live.catvod.com/live.php?id=ccm01&token=1769385806.9a15054dc4b18eff43d9fab659fa525fd3ffd6c0e0bc9020587811e8a2eb6831
-#EXTINF:-1 tvg-id="ccm02" tvg-name="天映经典（多音轨字幕）" group-title="香港",天映经典（多音轨字幕）
-https://live.catvod.com/live.php?id=ccm02&token=1769385806.3b5e9d34085200bd71b1170f10c3dbe252cd5e058bdfe2eb95610e6d28b5b877
-#EXTINF:-1 tvg-id="nowbg" tvg-name="Now爆谷" group-title="香港",Now爆谷
-https://live.catvod.com/live.php?id=nowbg&token=1769385806.0df2a60b0eaf48d3c17da455dcd90a469d7cade9133687b1db63f725e666e537
-#EXTINF:-1 tvg-id="nowxy" tvg-name="Now星影" group-title="香港",Now星影
-https://live.catvod.com/live.php?id=nowxy&token=1769385806.148b2a6cfc8ece67420bd392cd98aba227d6248da685b616d47e935c0720a00e
 #EXTINF:-1 tvg-id="jade_twn" tvg-name="翡翠台" group-title="香港",翡翠台
-https://live.catvod.com/live.php?id=jade_twn&token=1769385806.4d059f1ef423da2645859c864c8799e1ffbeb24f4fd6b0a71755de9348108724
+https://live.catvod.com/live.php?id=jade_twn
 #EXTINF:-1 tvg-id="jade_xue" tvg-name="翡翠台 (Back up 1)" group-title="香港",翡翠台 (Back up 1)
-https://live.catvod.com/live.php?id=jade_xue&token=1769385806.ac92b6c5dd4c21aea1fa5e877f8c149607ee7f12742d73dcfc5d6d0976c0b897
+https://live.catvod.com/live.php?id=jade_xue
 #EXTINF:-1 tvg-id="inews_twn" tvg-name="iNews 互動新聞台" group-title="香港",iNews 互動新聞台
-https://live.catvod.com/live.php?id=inews_twn&token=1769385806.82f90473953572fa5f094b65f802b5b51cf1963bbd548b6499c200f4b79600c9
+https://live.catvod.com/live.php?id=inews_twn
 #EXTINF:-1 tvg-id="j2_twn" tvg-name="J 2" group-title="香港",J 2
-https://live.catvod.com/live.php?id=j2_twn&token=1769385806.59bda6956738a15526fd7ad28da2cd6760ef879144972098ba3f549e5599aa4c
+https://live.catvod.com/live.php?id=j2_twn
 #EXTINF:-1 tvg-id="pearl_twn" tvg-name="珍珠台" group-title="香港",珍珠台
-https://live.catvod.com/live.php?id=pearl_twn&token=1769385806.f5feba6e4329679e0e43ed5bd3f28d058d8f25c6dd278f93c28d01a2aa14ed00
+https://live.catvod.com/live.php?id=pearl_twn
 #EXTINF:-1 tvg-id="hkphoenix_twn" tvg-name="凤凰香港" group-title="香港",凤凰香港
-https://live.catvod.com/live.php?id=hkphoenix_twn&token=1769385806.9e5c7c497bdca8acd49114fea13ff3edaf646f21fc82379232623822c75549fa
+https://live.catvod.com/live.php?id=hkphoenix_twn
 #EXTINF:-1 tvg-id="hoycaijing_twn" tvg-name="无线财经资讯台" group-title="香港",无线财经资讯台
-https://live.catvod.com/live.php?id=hoycaijing_twn&token=1769385806.3094b2e0360386983aaf431cadf1eea19d253e8bca35b3cdf510f32d8dd09809
+https://live.catvod.com/live.php?id=hoycaijing_twn
 #EXTINF:-1 tvg-id="rhk31_twn" tvg-name="RHK 31" group-title="香港",RHK 31
-https://live.catvod.com/live.php?id=rhk31_twn&token=1769385806.229da81e4a3d2c792d3c4feb3334d24f3989c7e7c4827389b29308fa58f5b14d
+https://live.catvod.com/live.php?id=rhk31_twn
 #EXTINF:-1 tvg-id="viu1_twn" tvg-name="VIUTV1" group-title="香港",VIUTV1
-https://live.catvod.com/live.php?id=viu1_twn&token=1769385806.7f331acc67c11db066d3906349e4154785b70947de3c9971d81807b9a9dbacad
+https://live.catvod.com/live.php?id=viu1_twn
 #EXTINF:-1 tvg-id="rhk32_twn" tvg-name="RHK 32" group-title="香港",RHK 32
-https://live.catvod.com/live.php?id=rhk32_twn&token=1769385806.99a783965cdf9e632631e32f6e6373548f6f237a7d24ff9440ca445b523cf4ee
+https://live.catvod.com/live.php?id=rhk32_twn
 #EXTINF:-1 tvg-id="Tvbasia" tvg-name="TVB Asia" group-title="香港",TVB Asia
-https://live.catvod.com/live.php?id=Tvbasia&token=1769385806.2de5e676c79b87b5598cb9b55a71cd1b3db15e14d2a85f1d497194cf62ad587a
+https://live.catvod.com/live.php?id=Tvbasia
 #EXTINF:-1 tvg-id="phoenixtv_hd" tvg-name="凤凰卫视" group-title="香港",凤凰卫视
-https://live.catvod.com/live.php?id=phoenixtv_hd&token=1769385806.25e306c204a58eee759db8adbbf341c5a88ff06a94f11e93dfae6d3cff6f7e39
+https://live.catvod.com/live.php?id=phoenixtv_hd
 #EXTINF:-1 tvg-id="phoenixinfo_hd" tvg-name="鳳凰資訊" group-title="香港",鳳凰資訊
-https://live.catvod.com/live.php?id=phoenixinfo_hd&token=1769385806.78a5f4f047a5b582ddb492f0d20400b363e91174c7799e44b9a3ff46c958c92a
+https://live.catvod.com/live.php?id=phoenixinfo_hd
 #EXTINF:-1 tvg-id="Tvbentertainment" tvg-name="TVB Entertainment" group-title="香港",TVB Entertainment
-https://live.catvod.com/live.php?id=Tvbentertainment&token=1769385806.c3d5665d37cb3b302c21c8ecbf7d4e67b85ee66e8843646e2ac285089c3c79ec
+https://live.catvod.com/live.php?id=Tvbentertainment
 #EXTINF:-1 tvg-id="Tvbclassic" tvg-name="TVB Classic" group-title="香港",TVB Classic
-https://live.catvod.com/live.php?id=Tvbclassic&token=1769385806.e072094dbfff3f52744d38a8619c267eacfea9276a9c89d587a3aa6b472a33fb
+https://live.catvod.com/live.php?id=Tvbclassic
 #EXTINF:-1 tvg-id="viusix_twn" tvg-name="Viu6" group-title="香港",Viu6
-https://live.catvod.com/live.php?id=viusix_twn&token=1769385806.4130a0baf9fa62f2aa84452208d4e0b54b07070cd50d78989159865e3fe64cf4
+https://live.catvod.com/live.php?id=viusix_twn
 
 #EXTINF:-1 tvg-id="cctv1" tvg-name="CCTV-1 綜合" group-title="中国",CCTV-1 綜合
-https://live.catvod.com/live.php?id=cctv1&token=1769385806.6f6a909d5f27e07489efcd43b858bd0dbc9ee42b582c078bef526b8ad31ee775
+https://live.catvod.com/live.php?id=cctv1
 #EXTINF:-1 tvg-id="cctv2" tvg-name="CCTV-2 財經" group-title="中国",CCTV-2 財經
-https://live.catvod.com/live.php?id=cctv2&token=1769385806.6002f760f0fa4facc4531cfd3bc9895cf29c49fc4fa9a75f842b4b5d4b9684a7
+https://live.catvod.com/live.php?id=cctv2
 #EXTINF:-1 tvg-id="cctv3" tvg-name="CCTV-3 綜藝" group-title="中国",CCTV-3 綜藝
-https://live.catvod.com/live.php?id=cctv3&token=1769385806.081ccd9cc7fe127b1acd691f5ce01ab5e78d4fdfc6bbecd19943a4ef7eba61d5
+https://live.catvod.com/live.php?id=cctv3
 #EXTINF:-1 tvg-id="Cctv4" tvg-name="CCTV-4 中文國際" group-title="中国",CCTV-4 中文國際
-https://live.catvod.com/live.php?id=Cctv4&token=1769385806.05ff2bf92608c452334d346c3175b442d9884237c478889b65e09c53614da01a
+https://live.catvod.com/live.php?id=Cctv4
 #EXTINF:-1 tvg-id="cctv4" tvg-name="CCTV-4 中文國際 (備:1)" group-title="中国",CCTV-4 中文國際 (備:1)
-https://live.catvod.com/live.php?id=cctv4&token=1769385806.01f165aaf6beef72db318cb6681bdd26b570a219408c21515e03c90c679ab85c
+https://live.catvod.com/live.php?id=cctv4
 #EXTINF:-1 tvg-id="cctv6" tvg-name="CCTV-6 電影" group-title="中国",CCTV-6 電影
-https://live.catvod.com/live.php?id=cctv6&token=1769385806.88db0fd67e93ff4f648b9b05da6310bc73b5af43da91a4954db0079160e9220c
+https://live.catvod.com/live.php?id=cctv6
 #EXTINF:-1 tvg-id="cctv7" tvg-name="CCTV-7 軍事農業" group-title="中国",CCTV-7 軍事農業
-https://live.catvod.com/live.php?id=cctv7&token=1769385806.71af9a339e6567f2ce3fac446239b19f7d5073f366c4f437a3f99fa979d4ca09
+https://live.catvod.com/live.php?id=cctv7
 #EXTINF:-1 tvg-id="cctv8hd" tvg-name="CCTV-8 電視劇" group-title="中国",CCTV-8 電視劇
-https://live.catvod.com/live.php?id=cctv8hd&token=1769385806.29a8619dc84d559562dea0ecb83953c94c03d5e10d143ef3ce5553a03e1de97f
+https://live.catvod.com/live.php?id=cctv8hd
 #EXTINF:-1 tvg-id="cctv9hd" tvg-name="CCTV-9 紀錄" group-title="中国",CCTV-9 紀錄
-https://live.catvod.com/live.php?id=cctv9hd&token=1769385806.64ab99631ab2b8afc0b37b08628877e5fb7651ae842b54941d568313ae14b400
+https://live.catvod.com/live.php?id=cctv9hd
 #EXTINF:-1 tvg-id="cctv10hd" tvg-name="CCTV-10 科教" group-title="中国",CCTV-10 科教
-https://live.catvod.com/live.php?id=cctv10hd&token=1769385806.5160bb901f2077dad3e8cf95534eda08f64411e2835ed095988dc9c6c96c56dd
+https://live.catvod.com/live.php?id=cctv10hd
 #EXTINF:-1 tvg-id="cctv11" tvg-name="CCTV-11 戲曲" group-title="中国",CCTV-11 戲曲
-https://live.catvod.com/live.php?id=cctv11&token=1769385806.c75372adfd6b258649416f7e611b3657f15c733c0a2e5513abff7e4ed676c797
+https://live.catvod.com/live.php?id=cctv11
 #EXTINF:-1 tvg-id="cctv12" tvg-name="CCTV-12 社會與法" group-title="中国",CCTV-12 社會與法
-https://live.catvod.com/live.php?id=cctv12&token=1769385806.7e2085fddaeae73553d55f74cbb3bb61b13075141769eb51243154996a4729ce
+https://live.catvod.com/live.php?id=cctv12
 #EXTINF:-1 tvg-id="cctv14" tvg-name="CCTV-14 少兒" group-title="中国",CCTV-14 少兒
-https://live.catvod.com/live.php?id=cctv14&token=1769385806.45dacf8737c6672d81e47088305736fb291bf4a0d165e3e9f19f08540deb7c13
+https://live.catvod.com/live.php?id=cctv14
 #EXTINF:-1 tvg-id="cctv15" tvg-name="CCTV-15 音樂" group-title="中国",CCTV-15 音樂
-https://live.catvod.com/live.php?id=cctv15&token=1769385806.c80460223e3677fc9b079952cbb0de4a602884efba44755fabd3f362fc52af2a
+https://live.catvod.com/live.php?id=cctv15
 #EXTINF:-1 tvg-id="hunan_twn" tvg-name="湖南卫视" group-title="中国",湖南卫视
-https://live.catvod.com/live.php?id=hunan_twn&token=1769385806.7c2d521039f40a02f86105b85f448dea4f65d8b3ea72e8ba8b3d66a6e7c276c0
+https://live.catvod.com/live.php?id=hunan_twn
 #EXTINF:-1 tvg-id="zhejiang_twn" tvg-name="浙江卫视" group-title="中国",浙江卫视
-https://live.catvod.com/live.php?id=zhejiang_twn&token=1769385806.cd67cd4c9b3395e230844be80b84becf09efcf9ee1c80e1c2d510491d3a27b99
+https://live.catvod.com/live.php?id=zhejiang_twn
 #EXTINF:-1 tvg-id="jiangsu_twn" tvg-name="江苏卫视" group-title="中国",江苏卫视
-https://live.catvod.com/live.php?id=jiangsu_twn&token=1769385806.aeb3e9850393256d181da88054fab94680b54abeccc1c8fab489d10e4338a6e8
+https://live.catvod.com/live.php?id=jiangsu_twn
 #EXTINF:-1 tvg-id="cctv13" tvg-name="CCTV-13 新聞與頻道" group-title="中国",CCTV-13 新聞與頻道
-https://live.catvod.com/live.php?id=cctv13&token=1769385806.120ba7235a4d56c0de0aa7f63caff8b43a4a17dc41c095122f331ba011c40f36
+https://live.catvod.com/live.php?id=cctv13
 #EXTINF:-1 tvg-id="shenzhen" tvg-name="深圳卫视" group-title="中国",深圳卫视
-https://live.catvod.com/live.php?id=shenzhen&token=1769385806.29064f45ee1d72ec4ba557acbb814b466cc9d1034e19229530c7c4ff92da1faa
+https://live.catvod.com/live.php?id=shenzhen
 #EXTINF:-1 tvg-id="fujian" tvg-name="福建东南卫视" group-title="中国",福建东南卫视
-https://live.catvod.com/live.php?id=fujian&token=1769385806.4d3f124598c16d5f4b6ce486e3206e041ae8a2251b802c1e8705f23fce8d3e64
+https://live.catvod.com/live.php?id=fujian
 #EXTINF:-1 tvg-id="nanfang_twn" tvg-name="广东南方卫视" group-title="中国",广东南方卫视
-https://live.catvod.com/live.php?id=nanfang_twn&token=1769385806.43d35746d31764a3960e1ccc4d538e20866ce480810356b9c034de3a8ae45422
+https://live.catvod.com/live.php?id=nanfang_twn
 #EXTINF:-1 tvg-id="guangdongweishi_twn" tvg-name="广东卫视" group-title="中国",广东卫视
-https://live.catvod.com/live.php?id=guangdongweishi_twn&token=1769385806.aeab61fb41ac90aaed823b6ebfcfe1a1a947dbb60488b46dffeeee47fb96b37c
+https://live.catvod.com/live.php?id=guangdongweishi_twn
 #EXTINF:-1 tvg-id="beijing" tvg-name="北京卫视" group-title="中国",北京卫视
-https://live.catvod.com/live.php?id=beijing&token=1769385806.2b6c7f48cb79eded5da10a28b49286d3cdb2d0f0705bdc7ecbd90315e30b89bf
+https://live.catvod.com/live.php?id=beijing
 #EXTINF:-1 tvg-id="zhujiang" tvg-name="珠江台" group-title="中国",珠江台
-https://live.catvod.com/live.php?id=zhujiang&token=1769385806.e112acbf05f366f4712f7227c410744cd0f785f7f2dc4850f4108cd74500575c
+https://live.catvod.com/live.php?id=zhujiang
 #EXTINF:-1 tvg-id="guangxi" tvg-name="广西卫视" group-title="中国",广西卫视
-https://live.catvod.com/live.php?id=guangxi&token=1769385806.c233bc4e745762e037282fee42bb29dee2ef6d756ec473f0dbb5e1cf19924adb
+https://live.catvod.com/live.php?id=guangxi
 #EXTINF:-1 tvg-id="CGTN" tvg-name="CGTN" group-title="中国",CGTN
-https://live.catvod.com/live.php?id=CGTN&token=1769385806.835b3d8312b6e40294e2fc12635d53e427a52f56135b9e607c23c70dfd467f32
+https://live.catvod.com/live.php?id=CGTN
 #EXTINF:-1 tvg-id="hubei" tvg-name="湖北卫视" group-title="中国",湖北卫视
-https://live.catvod.com/live.php?id=hubei&token=1769385806.d4551e08b6e2d01fb21502f7ce9fce7d097d05a46f21f604d2dc91c328505cd6
+https://live.catvod.com/live.php?id=hubei
 #EXTINF:-1 tvg-id="sichuan_twn" tvg-name="四川卫视" group-title="中国",四川卫视
-https://live.catvod.com/live.php?id=sichuan_twn&token=1769385806.161530ab3b33b373effc069a29371e31422b6df1a92909a8f86f043c1d0ebc9c
+https://live.catvod.com/live.php?id=sichuan_twn
 #EXTINF:-1 tvg-id="cctv5" tvg-name="CCTV-5 體育" group-title="中国",CCTV-5 體育
-https://live.catvod.com/live.php?id=cctv5&token=1769385806.35a7b7c3ad7b2256ae8e735dc8c7ca1a418fd8b9efe5b4a961c874c58f397d15
+https://live.catvod.com/live.php?id=cctv5
 #EXTINF:-1 tvg-id="cctv5plus" tvg-name="CCTV-5+ 體育" group-title="中国",CCTV-5+ 體育
-https://live.catvod.com/live.php?id=cctv5plus&token=1769385806.fbd7ed7749848a693f55947e6a8181b0cf13b7bbd7a3a878d9ce9caa2aa54b5e
+https://live.catvod.com/live.php?id=cctv5plus
 #EXTINF:-1 tvg-id="dongfangweishi_twn" tvg-name="东方卫视" group-title="中国",东方卫视
-https://live.catvod.com/live.php?id=dongfangweishi_twn&token=1769385806.9c29d215801f7228c3b559641999994ec46cf1a1bfa78b81e53041946cf605e7
+https://live.catvod.com/live.php?id=dongfangweishi_twn
 #EXTINF:-1 tvg-id="phoenixtv_hd" tvg-name="凤凰卫视" group-title="中国",凤凰卫视
-https://live.catvod.com/live.php?id=phoenixtv_hd&token=1769385806.25e306c204a58eee759db8adbbf341c5a88ff06a94f11e93dfae6d3cff6f7e39
+https://live.catvod.com/live.php?id=phoenixtv_hd
 #EXTINF:-1 tvg-id="phoenixinfo_hd" tvg-name="鳳凰資訊" group-title="中国",鳳凰資訊
-https://live.catvod.com/live.php?id=phoenixinfo_hd&token=1769385806.78a5f4f047a5b582ddb492f0d20400b363e91174c7799e44b9a3ff46c958c92a
+https://live.catvod.com/live.php?id=phoenixinfo_hd
 
 #EXTINF:-1 tvg-id="abcnews_glo" tvg-name="ABC News" group-title="新闻频道",ABC News
-https://live.catvod.com/live.php?id=abcnews_glo&token=1769385806.3a7e6e3763e0e862db93efe31d0b99e0be01d8bccd32155875b82308468108e1
+https://live.catvod.com/live.php?id=abcnews_glo
 #EXTINF:-1 tvg-id="inews_twn" tvg-name="iNews 互動新聞台" group-title="新闻频道",iNews 互動新聞台
-https://live.catvod.com/live.php?id=inews_twn&token=1769385806.82f90473953572fa5f094b65f802b5b51cf1963bbd548b6499c200f4b79600c9
+https://live.catvod.com/live.php?id=inews_twn
 #EXTINF:-1 tvg-id="cbshd_glo" tvg-name="CBS HD" group-title="新闻频道",CBS HD
-https://live.catvod.com/live.php?id=cbshd_glo&token=1769385806.385f43183a1bd95d56289225829868db1af1a2325e4677220a8f186c05f3e1e4
+https://live.catvod.com/live.php?id=cbshd_glo
 #EXTINF:-1 tvg-id="cbsn_glo" tvg-name="CBSN HD" group-title="新闻频道",CBSN HD
-https://live.catvod.com/live.php?id=cbsn_glo&token=1769385806.06b65067361fde88ad865a770240ef0502de227923ba912a4cc99e04903fc207
+https://live.catvod.com/live.php?id=cbsn_glo
 #EXTINF:-1 tvg-id="cctv13" tvg-name="CCTV-13 新聞與頻道" group-title="新闻频道",CCTV-13 新聞與頻道
-https://live.catvod.com/live.php?id=cctv13&token=1769385806.120ba7235a4d56c0de0aa7f63caff8b43a4a17dc41c095122f331ba011c40f36
+https://live.catvod.com/live.php?id=cctv13
 #EXTINF:-1 tvg-id="CGTN" tvg-name="CGTN" group-title="新闻频道",CGTN
-https://live.catvod.com/live.php?id=CGTN&token=1769385806.835b3d8312b6e40294e2fc12635d53e427a52f56135b9e607c23c70dfd467f32
+https://live.catvod.com/live.php?id=CGTN
 #EXTINF:-1 tvg-id="dw_twn" tvg-name="DW (Deutsch)" group-title="新闻频道",DW (Deutsch)
-https://live.catvod.com/live.php?id=dw_twn&token=1769385806.58517109118de7046cabd06b65c1fc67b33f5ca6d61bd510f1196dc7d61e11b0
+https://live.catvod.com/live.php?id=dw_twn
 #EXTINF:-1 tvg-id="foxnews_twn" tvg-name="Fox News" group-title="新闻频道",Fox News
-https://live.catvod.com/live.php?id=foxnews_twn&token=1769385806.e0fbc538f321f13c435b2f5135c920d3dfad223d72b3111c3144d197138dde0b
+https://live.catvod.com/live.php?id=foxnews_twn
 #EXTINF:-1 tvg-id="nhkworld_japan" tvg-name="NHK World" group-title="新闻频道",NHK World
-https://live.catvod.com/live.php?id=nhkworld_japan&token=1769385806.9cf1d9e4f9259e16dbd5fda04c65dfd2a99e60b2e95a1862c37d4b4a22a26caa
+https://live.catvod.com/live.php?id=nhkworld_japan
 #EXTINF:-1 tvg-id="tvbs_n" tvg-name="TVBS News 新聞台" group-title="新闻频道",TVBS News 新聞台
-https://live.catvod.com/live.php?id=tvbs_n&token=1769385806.a3dc407ca64ef2d792ca82c81c5745288aaca73071681fd14f550b5513835de7
+https://live.catvod.com/live.php?id=tvbs_n
 #EXTINF:-1 tvg-id="aljazeera_twn" tvg-name="Al-Jazeera" group-title="新闻频道",Al-Jazeera
-https://live.catvod.com/live.php?id=aljazeera_twn&token=1769385806.8afed9316827d19e184e71449638a15547342958125d85f638d72d3ead176d63
+https://live.catvod.com/live.php?id=aljazeera_twn
 #EXTINF:-1 tvg-id="bloomberg_twn" tvg-name="Bloomberg News" group-title="新闻频道",Bloomberg News
-https://live.catvod.com/live.php?id=bloomberg_twn&token=1769385806.2cefdf8c3492a83c1167426c1fc160ddba12e2b919f540abc99f00849ee746e7
+https://live.catvod.com/live.php?id=bloomberg_twn
 #EXTINF:-1 tvg-id="ettvnews" tvg-name="東森新聞 ETTV News" group-title="新闻频道",東森新聞 ETTV News
-https://live.catvod.com/live.php?id=ettvnews&token=1769385806.8a12e6fe3798c42ee580ec79d4dff0e49c50a6db0b21ffc08e94c7aeea842f22
+https://live.catvod.com/live.php?id=ettvnews
 #EXTINF:-1 tvg-id="ettvcaijing_twn" tvg-name="東森財經新聞 ETTV Business" group-title="新闻频道",東森財經新聞 ETTV Business
-https://live.catvod.com/live.php?id=ettvcaijing_twn&token=1769385806.e66cc39f2debbae2efa1a69803eb4991ba890bccab6b00d054c5c10d9d7d4389
+https://live.catvod.com/live.php?id=ettvcaijing_twn
 #EXTINF:-1 tvg-id="ctinews" tvg-name="中天新聞 CTI News" group-title="新闻频道",中天新聞 CTI News
-https://live.catvod.com/live.php?id=ctinews&token=1769385806.c93b70d0c45ce147c6ad5e86ecffc0685a9c7d62c8531b89ae71d21ccbc07687
+https://live.catvod.com/live.php?id=ctinews
 #EXTINF:-1 tvg-id="feifannews_twn" tvg-name="非凡新聞台" group-title="新闻频道",非凡新聞台
-https://live.catvod.com/live.php?id=feifannews_twn&token=1769385806.b5167449a13fdcc884b5f431473849017df1863e1df0db1b85ff717beb91388c
+https://live.catvod.com/live.php?id=feifannews_twn
 #EXTINF:-1 tvg-id="ttvnews_twn" tvg-name="台視新聞台 TTV News" group-title="新闻频道",台視新聞台 TTV News
-https://live.catvod.com/live.php?id=ttvnews_twn&token=1769385806.50ce45d3a6b57bbd6acd3f3ee469cbab1918dbc1883c01707ab9e291a6b4bea1
+https://live.catvod.com/live.php?id=ttvnews_twn
 #EXTINF:-1 tvg-id="ftvnew_taiwan" tvg-name="民視新聞台 FTV News" group-title="新闻频道",民視新聞台 FTV News
-https://live.catvod.com/live.php?id=ftvnew_taiwan&token=1769385806.074b7dcde12fc5a54c4531593f3090886030e8dce7fd8a8496df141812ae91d0
+https://live.catvod.com/live.php?id=ftvnew_taiwan
 #EXTINF:-1 tvg-id="Aljazeera" tvg-name="Al_Jazeera" group-title="新闻频道",Al_Jazeera
-https://live.catvod.com/live.php?id=Aljazeera&token=1769385806.8bd4dd4391bc9ada015ef7e0effd08088d80a27598d1f87d1e2c2d652915008d
+https://live.catvod.com/live.php?id=Aljazeera
 #EXTINF:-1 tvg-id="huanyuxinwen_twn" tvg-name="寰宇新聞台" group-title="新闻频道",寰宇新聞台
-https://live.catvod.com/live.php?id=huanyuxinwen_twn&token=1769385806.26d5846a85b9aeca0f7e9ceb2e2900e0f5822d759e8665cdfc115c63244f9658
+https://live.catvod.com/live.php?id=huanyuxinwen_twn
 #EXTINF:-1 tvg-id="zhongshinews_twn" tvg-name="中視新聞台" group-title="新闻频道",中視新聞台
-https://live.catvod.com/live.php?id=zhongshinews_twn&token=1769385806.cc04458e67f05374458f03457c9e6b8e6a492337ce2f479009e63c1f9f0ceb27
+https://live.catvod.com/live.php?id=zhongshinews_twn
 #EXTINF:-1 tvg-id="Cnn" tvg-name="CNN" group-title="新闻频道",CNN
-https://live.catvod.com/live.php?id=Cnn&token=1769385806.58fd9d14cb77a58572941db6b0699bb46505f7ca06db4ab368d043541d4ade56
+https://live.catvod.com/live.php?id=Cnn
 #EXTINF:-1 tvg-id="cnn_twn" tvg-name="CNN backup" group-title="新闻频道",CNN backup
-https://live.catvod.com/live.php?id=cnn_twn&token=1769385806.2a892482eeddbb3a90e1559d646f22486f5d0d246a4631ae8cc55fc35350083f
+https://live.catvod.com/live.php?id=cnn_twn
 #EXTINF:-1 tvg-id="Bbcnews" tvg-name="BBC World News" group-title="新闻频道",BBC World News
-https://live.catvod.com/live.php?id=Bbcnews&token=1769385806.d21e5a2d95ee26d07879f9f7a2ea2e8e69ef0cff69b0e0d428732ae95dcaf066
+https://live.catvod.com/live.php?id=Bbcnews
 #EXTINF:-1 tvg-id="Bbcnews" tvg-name="BBC World News" group-title="新闻频道",BBC World News
-https://live.catvod.com/live.php?id=Bbcnews&token=1769385806.d21e5a2d95ee26d07879f9f7a2ea2e8e69ef0cff69b0e0d428732ae95dcaf066
+https://live.catvod.com/live.php?id=Bbcnews
 #EXTINF:-1 tvg-id="Cnbc" tvg-name="CNBC" group-title="新闻频道",CNBC
-https://live.catvod.com/live.php?id=Cnbc&token=1769385806.04edcab4bc772a79e9aef57d97a16fc7054e0626d1c07ed13255bb9936991006
+https://live.catvod.com/live.php?id=Cnbc
 #EXTINF:-1 tvg-id="Bloomberg" tvg-name="Bloomberg TV" group-title="新闻频道",Bloomberg TV
-https://live.catvod.com/live.php?id=Bloomberg&token=1769385806.d98eafcc63003d25c5d25afd5374d7ca67cf9eb05d5f95d207811b07d370e5a6
+https://live.catvod.com/live.php?id=Bloomberg
 #EXTINF:-1 tvg-id="cna" tvg-name="CNA" group-title="新闻频道",CNA
-https://live.catvod.com/live.php?id=cna&token=1769385806.5eec9c55fdd85ab7ed876c8d6ce86cc37099611c119ff2f878ef0824a90681d6
+https://live.catvod.com/live.php?id=cna
 #EXTINF:-1 tvg-id="Dw" tvg-name="DW" group-title="新闻频道",DW
-https://live.catvod.com/live.php?id=Dw&token=1769385806.3cb941ae772e794d98be6fa475f14d5bd984086f76d86e1db2e8970eafdbe5e7
+https://live.catvod.com/live.php?id=Dw
 #EXTINF:-1 tvg-id="france24_twn" tvg-name="France 24" group-title="新闻频道",France 24
-https://live.catvod.com/live.php?id=france24_twn&token=1769385806.9e07883b4cc9a7ac95e93288c37afa4b598898a668e86b6a4163a1cba200bd80
+https://live.catvod.com/live.php?id=france24_twn
 #EXTINF:-1 tvg-id="France24" tvg-name="France 24" group-title="新闻频道",France 24
-https://live.catvod.com/live.php?id=France24&token=1769385806.9818880298a959878b66fb43135d553c182d2ef28a715ec86553ee1e60cf4c6d
+https://live.catvod.com/live.php?id=France24
 #EXTINF:-1 tvg-id="Skynews" tvg-name="Skynews" group-title="新闻频道",Skynews
-https://live.catvod.com/live.php?id=Skynews&token=1769385806.6d3aa6a0303913230e0e5f711d2e1627750857747911eda14dc9adbe33d30015
+https://live.catvod.com/live.php?id=Skynews
 #EXTINF:-1 tvg-id="skynews_twn" tvg-name="Skynews" group-title="新闻频道",Skynews
-https://live.catvod.com/live.php?id=skynews_twn&token=1769385806.fc0d6c90b4e4f0b94c4464441cf20c3506cf48e224d0c39a45190caa8a88b9f6
+https://live.catvod.com/live.php?id=skynews_twn
 #EXTINF:-1 tvg-id="NHKpremium" tvg-name="NHK Premium" group-title="新闻频道",NHK Premium
-https://live.catvod.com/live.php?id=NHKpremium&token=1769385806.363d49391ae424b26b5f8d843c58e930d6292216ed6e750ba3c50fea8d286b85
+https://live.catvod.com/live.php?id=NHKpremium
 
 #EXTINF:-1 tvg-id="cctv6" tvg-name="CCTV-6 電影" group-title="电影频道",CCTV-6 電影
-https://live.catvod.com/live.php?id=cctv6&token=1769385806.88db0fd67e93ff4f648b9b05da6310bc73b5af43da91a4954db0079160e9220c
+https://live.catvod.com/live.php?id=cctv6
 #EXTINF:-1 tvg-id="hbohd_twn" tvg-name="HBO_HD" group-title="电影频道",HBO_HD
-https://live.catvod.com/live.php?id=hbohd_twn&token=1769385806.064811adc558edb84cadeb15e09de6fc3ea63666f8316ea86a2ba00cfd1a3a7c
+https://live.catvod.com/live.php?id=hbohd_twn
 #EXTINF:-1 tvg-id="hbohits_twn" tvg-name="HBO_HITS" group-title="电影频道",HBO_HITS
-https://live.catvod.com/live.php?id=hbohits_twn&token=1769385806.7c975194e1ee7004b15c51e21b97a6853c5b9fdb325f5164f114020fb92ab5c1
+https://live.catvod.com/live.php?id=hbohits_twn
 #EXTINF:-1 tvg-id="hbosignature_twn" tvg-name="HBO Signature Taiwan" group-title="电影频道",HBO Signature Taiwan
-https://live.catvod.com/live.php?id=hbosignature_twn&token=1769385806.e670a69e238cf2c1bd1cf770b4833dd4981cfb33a27c17c1bd676ec479882f0b
+https://live.catvod.com/live.php?id=hbosignature_twn
 #EXTINF:-1 tvg-id="hollywoodmovies_twn" tvg-name="Hollywood Movies" group-title="电影频道",Hollywood Movies
-https://live.catvod.com/live.php?id=hollywoodmovies_twn&token=1769385806.96cf3cd70fcd9432d10794f843c92f45104703341fa1eb307fa1d79a5ef93336
+https://live.catvod.com/live.php?id=hollywoodmovies_twn
 #EXTINF:-1 tvg-id="axn_twn" tvg-name="AXN Taiwan" group-title="电影频道",AXN Taiwan
-https://live.catvod.com/live.php?id=axn_twn&token=1769385806.bd4a02fbab0806fed03c6f56064daecd10a651b4ad6b476359743f23a4a7db1b
+https://live.catvod.com/live.php?id=axn_twn
 #EXTINF:-1 tvg-id="cinemax_twn" tvg-name="CINEMAX" group-title="电影频道",CINEMAX
-https://live.catvod.com/live.php?id=cinemax_twn&token=1769385806.898e8298c4460479a4f9a46dde034f33b5d561e256b2b6a8f97372bf8839bc5d
+https://live.catvod.com/live.php?id=cinemax_twn
 #EXTINF:-1 tvg-id="Cinemax" tvg-name="Cinemax" group-title="电影频道",Cinemax
-https://live.catvod.com/live.php?id=Cinemax&token=1769385806.5d506269e4823c20ccc4c587a180ea031c50a5d56854df11d60475a1db280c58
+https://live.catvod.com/live.php?id=Cinemax
 #EXTINF:-1 tvg-id="daai2_twn" tvg-name="大爱2台" group-title="电影频道",大爱2台
-https://live.catvod.com/live.php?id=daai2_twn&token=1769385806.95b6397c22bb54de1c2f5b20a492dd59021a6dd05ef2f83141bc183af247e6e4
+https://live.catvod.com/live.php?id=daai2_twn
 #EXTINF:-1 tvg-id="ettvmovie" tvg-name="东森电影 ETTV Movie" group-title="电影频道",东森电影 ETTV Movie
-https://live.catvod.com/live.php?id=ettvmovie&token=1769385806.5b9f0deb5dd21cb55846276c49479d2540e3126f22130c2ab3c4d3bc2328c08b
+https://live.catvod.com/live.php?id=ettvmovie
 #EXTINF:-1 tvg-id="ettvwestern" tvg-name="东森洋片 ETTV Western" group-title="电影频道",东森洋片 ETTV Western
-https://live.catvod.com/live.php?id=ettvwestern&token=1769385806.1f802e4a6ea217804db339cb465fe429bfa3ce6c7e9bd7f0029fe3d9c10cbe6c
+https://live.catvod.com/live.php?id=ettvwestern
 #EXTINF:-1 tvg-id="lunghuawestern_twn" tvg-name="龙华洋片 Lunghua Western" group-title="电影频道",龙华洋片 Lunghua Western
-https://live.catvod.com/live.php?id=lunghuawestern_twn&token=1769385806.fdf2ed91c5f9848ceae967db0b7278bd6a86285b168b34188c190ccd6d2e705b
+https://live.catvod.com/live.php?id=lunghuawestern_twn
 #EXTINF:-1 tvg-id="Animax" tvg-name="Animax" group-title="电影频道",Animax
-https://live.catvod.com/live.php?id=Animax&token=1769385806.4da7389b0ecb8b2a56ad89464fa20644e0d55bff8827a02e1a7e26d23370b9aa
+https://live.catvod.com/live.php?id=Animax
 #EXTINF:-1 tvg-id="lungxiangtime_twn" tvg-name="龙详时代" group-title="电影频道",龙详时代
-https://live.catvod.com/live.php?id=lungxiangtime_twn&token=1769385806.1d06b0342ba13c15d490189a3bfafa36c6eaa49cff9242fd22231b71606bc144
+https://live.catvod.com/live.php?id=lungxiangtime_twn
 #EXTINF:-1 tvg-id="moviesnow_raj" tvg-name="Movies Now HD" group-title="电影频道",Movies Now HD
-https://live.catvod.com/live.php?id=moviesnow_raj&token=1769385806.906983ef803bb7ca34354d6e13233f0edf164f8544baa38e8e2c5a0da758fddd
+https://live.catvod.com/live.php?id=moviesnow_raj
 #EXTINF:-1 tvg-id="starmovies_raj" tvg-name="Star Movies HD" group-title="电影频道",Star Movies HD
-https://live.catvod.com/live.php?id=starmovies_raj&token=1769385806.058b760be97eca27467826b1f655e85f7c10ed606d92c41cf991dd7b4497ddac
+https://live.catvod.com/live.php?id=starmovies_raj
 #EXTINF:-1 tvg-id="weishichinese_twn" tvg-name="卫视中文台 Star Movies Chinese" group-title="电影频道",卫视中文台 Star Movies Chinese
-https://live.catvod.com/live.php?id=weishichinese_twn&token=1769385806.a3274869ee2a53614aa53fa67668877582a7a02f3f60d060d2a2f47fa1ed0f94
+https://live.catvod.com/live.php?id=weishichinese_twn
 #EXTINF:-1 tvg-id="Hits" tvg-name="Hits" group-title="电影频道",Hits
-https://live.catvod.com/live.php?id=Hits&token=1769385806.a714e52b79c59815b5c9cd589c1fb9da84fc1b684f171c848487158a8b33d12b
+https://live.catvod.com/live.php?id=Hits
 #EXTINF:-1 tvg-id="WarnerTV" tvg-name="Warner TV" group-title="电影频道",Warner TV
-https://live.catvod.com/live.php?id=WarnerTV&token=1769385806.676b8d724ba524bae527dfa470396eccc459cca52238ee337d20d7aa4eba1228
+https://live.catvod.com/live.php?id=WarnerTV
 #EXTINF:-1 tvg-id="meiyamovie_twn" tvg-name="美亚电影" group-title="电影频道",美亚电影
-https://live.catvod.com/live.php?id=meiyamovie_twn&token=1769385806.35e24b08fecc45fcc2f6e1a84f7db7e44165efa9dd48668e38838563497f5b4d
+https://live.catvod.com/live.php?id=meiyamovie_twn
 #EXTINF:-1 tvg-id="Weishimovie" tvg-name="SCM" group-title="电影频道",SCM
-https://live.catvod.com/live.php?id=Weishimovie&token=1769385806.f519deb44bb611a18970c57dc72f0f9fc2dcebed50ef58f2f3fb337ce7def71e
+https://live.catvod.com/live.php?id=Weishimovie
 #EXTINF:-1 tvg-id="Thrill" tvg-name="Thrill" group-title="电影频道",Thrill
-https://live.catvod.com/live.php?id=Thrill&token=1769385806.9f64fdfd0736037c2a86176f15110c1a9a4263809c336c6b370308ea2d0138e8
+https://live.catvod.com/live.php?id=Thrill
 #EXTINF:-1 tvg-id="Hbofamily" tvg-name="HBO Family" group-title="电影频道",HBO Family
-https://live.catvod.com/live.php?id=Hbofamily&token=1769385806.0d92d512ef2d255e575b685fbc7cad48de1ecf63aa4725fa99fce50812cb2ba0
+https://live.catvod.com/live.php?id=Hbofamily
 #EXTINF:-1 tvg-id="Axn" tvg-name="Axn HD" group-title="电影频道",Axn HD
-https://live.catvod.com/live.php?id=Axn&token=1769385806.c6961d088212f4a04e29e5d7a08d89238e0455d0db5cf67359d541b54a99dceb
+https://live.catvod.com/live.php?id=Axn
 #EXTINF:-1 tvg-id="Hbo" tvg-name="HBO HD" group-title="电影频道",HBO HD
-https://live.catvod.com/live.php?id=Hbo&token=1769385806.f769f64e392f874ca6758c3e767bb7a9f01e39ede3079dee21715ec7bce8f041
+https://live.catvod.com/live.php?id=Hbo
 #EXTINF:-1 tvg-id="Hbosignature" tvg-name="HBO Signature" group-title="电影频道",HBO Signature
-https://live.catvod.com/live.php?id=Hbosignature&token=1769385806.f9ea2130ff349a065e14d83a0c1788329d1b88bb48112c141e8ff116116ec7c8
+https://live.catvod.com/live.php?id=Hbosignature
 #EXTINF:-1 tvg-id="Hbohitshd" tvg-name="HBO Hits" group-title="电影频道",HBO Hits
-https://live.catvod.com/live.php?id=Hbohitshd&token=1769385806.fab5d483b1637869ba93bd9fb19f9f7cd5993e1a9623529dc8264de24786f564
+https://live.catvod.com/live.php?id=Hbohitshd
 #EXTINF:-1 tvg-id="Dreamworks" tvg-name="Dreamworks" group-title="电影频道",Dreamworks
-https://live.catvod.com/live.php?id=Dreamworks&token=1769385806.9bba928ed5caabcb7933b81c11c36ddce5477712cba0e36ceb80b5eb3f05177c
+https://live.catvod.com/live.php?id=Dreamworks
 #EXTINF:-1 tvg-id="Hitsmovie" tvg-name="Hits Movie" group-title="电影频道",Hits Movie
-https://live.catvod.com/live.php?id=Hitsmovie&token=1769385806.40a563dc34cae2ebdf7ccb5d432070af2b01801413c644f44fd25a81adb6d8d6
+https://live.catvod.com/live.php?id=Hitsmovie
 #EXTINF:-1 tvg-id="Tvnmovie" tvg-name="tvN Movie" group-title="电影频道",tvN Movie
-https://live.catvod.com/live.php?id=Tvnmovie&token=1769385806.484feb2acac5fc009d9734c05879ff3d18cf11368cbe88b55c3d2cc0007e42d4
+https://live.catvod.com/live.php?id=Tvnmovie
 #EXTINF:-1 tvg-id="Kplus" tvg-name="Astrol Kplus" group-title="电影频道",Astrol Kplus
-https://live.catvod.com/live.php?id=Kplus&token=1769385806.19184778bd723f97e6105b825bd5e355d16a4c00d032053fddf2cb2f1a52b7d1
+https://live.catvod.com/live.php?id=Kplus
 #EXTINF:-1 tvg-id="One" tvg-name="One" group-title="电影频道",One
-https://live.catvod.com/live.php?id=One&token=1769385806.aab3a54ac75c4c202c1649b4f303a4b12b998ed5ef9fa3d4d17e7d7676e64da3
+https://live.catvod.com/live.php?id=One
 #EXTINF:-1 tvg-id="Celestialindo" tvg-name="天映頻道Celestial Movies" group-title="电影频道",天映頻道Celestial Movies
-https://live.catvod.com/live.php?id=Celestialindo&token=1769385806.2ab589909009398b4dc11957fa9473dc3c7849f32afc3c89da336baaab5b4145
+https://live.catvod.com/live.php?id=Celestialindo
 #EXTINF:-1 tvg-id="Celestial2" tvg-name="Celestial Classic" group-title="电影频道",Celestial Classic
-https://live.catvod.com/live.php?id=Celestial2&token=1769385806.974d1230a2b10ecf6cae916f445d0e59f6ae6a53465796194bcd77345f40a1d5
+https://live.catvod.com/live.php?id=Celestial2
 #EXTINF:-1 tvg-id="Rockaction" tvg-name="Rock Actions" group-title="电影频道",Rock Actions
-https://live.catvod.com/live.php?id=Rockaction&token=1769385806.69925c11436e5361b4448353dce376b7fed15c69e861a15da082fdd9734b1459
+https://live.catvod.com/live.php?id=Rockaction
 #EXTINF:-1 tvg-id="Rockentertain" tvg-name="Rock Entertainment" group-title="电影频道",Rock Entertainment
-https://live.catvod.com/live.php?id=Rockentertain&token=1769385806.f598c8f25825cbdb50c8fc1bb65aebcfa8626367a9aa6e5d4fae4f1126de1d07
+https://live.catvod.com/live.php?id=Rockentertain
 
 #EXTINF:-1 tvg-id="ci_twn" tvg-name="CI" group-title="纪录频道",CI
-https://live.catvod.com/live.php?id=ci_twn&token=1769385806.a8fa1c66faeb4de12686eeb1f32cfe9a6b4207d9c2abf98a069f221c2d56d5d1
+https://live.catvod.com/live.php?id=ci_twn
 #EXTINF:-1 tvg-id="asiatravel_twn" tvg-name="Asia Travel" group-title="纪录频道",Asia Travel
-https://live.catvod.com/live.php?id=asiatravel_twn&token=1769385806.24daa2bbf8fe07f99c6328a09157b8aac7354fec08b8b677f595f11455ce3531
+https://live.catvod.com/live.php?id=asiatravel_twn
 #EXTINF:-1 tvg-id="afc_twn" tvg-name="亚洲美食" group-title="纪录频道",亚洲美食
-https://live.catvod.com/live.php?id=afc_twn&token=1769385806.cd3a25a3707d9abb1d02cd8eff1d822ae9d02f0a3a072fcefc3c41590c2c64a2
+https://live.catvod.com/live.php?id=afc_twn
 #EXTINF:-1 tvg-id="Natgeo" tvg-name="NatGeo HD" group-title="纪录频道",NatGeo HD
-https://live.catvod.com/live.php?id=Natgeo&token=1769385806.248d5bcefb3f8df2eccb92193d6e378a14f427c6faed803adedeabf0918fd655
+https://live.catvod.com/live.php?id=Natgeo
 #EXTINF:-1 tvg-id="fashiontv_twn" tvg-name="Fashion TV" group-title="纪录频道",Fashion TV
-https://live.catvod.com/live.php?id=fashiontv_twn&token=1769385806.5e7a50f6b6a8609a3525a198dcb7a79a9608b198313ea375784f8ffaa381e8f8
+https://live.catvod.com/live.php?id=fashiontv_twn
 #EXTINF:-1 tvg-id="History" tvg-name="History" group-title="纪录频道",History
-https://live.catvod.com/live.php?id=History&token=1769385806.a426fb83e6e711669409d2431affd7929bb2dd2afe6cbfb4b8013fa7152440df
+https://live.catvod.com/live.php?id=History
 #EXTINF:-1 tvg-id="bbcearth_twn" tvg-name="BBC Earth HD" group-title="纪录频道",BBC Earth HD
-https://live.catvod.com/live.php?id=bbcearth_twn&token=1769385806.00980c60815baf8f4c8c6fa5d387be8d91aee04f8f1da8cbef4cc14fa7c26d8c
+https://live.catvod.com/live.php?id=bbcearth_twn
 #EXTINF:-1 tvg-id="bbclifestyle_twn" tvg-name="BBC Earth Lifestyle" group-title="纪录频道",BBC Earth Lifestyle
-https://live.catvod.com/live.php?id=bbclifestyle_twn&token=1769385806.a9f0ce23cf24d0b566c59fe106564728bb2657290e5d934999e560f278ee8d02
+https://live.catvod.com/live.php?id=bbclifestyle_twn
 #EXTINF:-1 tvg-id="tlc_twn" tvg-name="亚洲旅游 TLC Asia" group-title="纪录频道",亚洲旅游 TLC Asia
-https://live.catvod.com/live.php?id=tlc_twn&token=1769385806.ba7461cf68470b5bfa0e2fd56087c7d68b41347ceb592913b93a493c4e1fa246
+https://live.catvod.com/live.php?id=tlc_twn
 #EXTINF:-1 tvg-id="mtvhd_twn" tvg-name="MTV Live" group-title="纪录频道",MTV Live
-https://live.catvod.com/live.php?id=mtvhd_twn&token=1769385806.668106798b83029006ec6be0e49eb377a6bdbb5be6282ea6ae25f8bc3f51f868
+https://live.catvod.com/live.php?id=mtvhd_twn
 #EXTINF:-1 tvg-id="Natgeowild" tvg-name="NatGeo_Wild HD" group-title="纪录频道",NatGeo_Wild HD
-https://live.catvod.com/live.php?id=Natgeowild&token=1769385806.9ab587841f7ef8a7504e997777c193c3b6019ce35c9f2100ee860231cca3b124
+https://live.catvod.com/live.php?id=Natgeowild
 #EXTINF:-1 tvg-id="AnimalPlanet" tvg-name="Animal_Planet" group-title="纪录频道",Animal_Planet
-https://live.catvod.com/live.php?id=AnimalPlanet&token=1769385806.72636f45c351f9919684e486a3f1326b98fb9a0f65d4cf1767f83848c64163b4
+https://live.catvod.com/live.php?id=AnimalPlanet
 #EXTINF:-1 tvg-id="HGTV" tvg-name="HGTV" group-title="纪录频道",HGTV
-https://live.catvod.com/live.php?id=HGTV&token=1769385806.7669c5d1b7cc379b6e88cf9dee1b677d57b2291dba42f5250551157056a9b94d
+https://live.catvod.com/live.php?id=HGTV
 #EXTINF:-1 tvg-id="Tlc" tvg-name="TLC" group-title="纪录频道",TLC
-https://live.catvod.com/live.php?id=Tlc&token=1769385806.3c4d399ab33bc54f6a8cb84a94d5a2131e9441ccfa37ebe9129347d94bf9388c
+https://live.catvod.com/live.php?id=Tlc
 #EXTINF:-1 tvg-id="Foodnetwork" tvg-name="Foodnetwork Hd" group-title="纪录频道",Foodnetwork Hd
-https://live.catvod.com/live.php?id=Foodnetwork&token=1769385806.572c780384d3dde26adc6413aeca532793bd5fee741b9f582bfc56d5c569b4d2
+https://live.catvod.com/live.php?id=Foodnetwork
 #EXTINF:-1 tvg-id="Afc" tvg-name="Asia Food Network" group-title="纪录频道",Asia Food Network
-https://live.catvod.com/live.php?id=Afc&token=1769385806.3ba87a5981187e39b1e5e49ac94950ceb7c9cd1cac4dd1dd9abadf7ea67ebccc
+https://live.catvod.com/live.php?id=Afc
 #EXTINF:-1 tvg-id="AnimalPlanet" tvg-name="Animal Planet (Eng)" group-title="纪录频道",Animal Planet (Eng)
-https://live.catvod.com/live.php?id=AnimalPlanet&token=1769385806.72636f45c351f9919684e486a3f1326b98fb9a0f65d4cf1767f83848c64163b4
+https://live.catvod.com/live.php?id=AnimalPlanet
 #EXTINF:-1 tvg-id="Natgeowild" tvg-name="NatGeo Wild HD" group-title="纪录频道",NatGeo Wild HD
-https://live.catvod.com/live.php?id=Natgeowild&token=1769385806.9ab587841f7ef8a7504e997777c193c3b6019ce35c9f2100ee860231cca3b124
+https://live.catvod.com/live.php?id=Natgeowild
 #EXTINF:-1 tvg-id="Discoveryasia" tvg-name="Discovery Asia" group-title="纪录频道",Discovery Asia
-https://live.catvod.com/live.php?id=Discoveryasia&token=1769385806.a677634537a83f9a9f1ffff6ec74d67e85862d1fb8be93d3144d6285198eacb8
+https://live.catvod.com/live.php?id=Discoveryasia
 #EXTINF:-1 tvg-id="Dmax" tvg-name="Dmax" group-title="纪录频道",Dmax
-https://live.catvod.com/live.php?id=Dmax&token=1769385806.c07d1350303efff614a83a6dae14fba5ce7ebbacc29b8f10c272e6e0c8c2d62f
+https://live.catvod.com/live.php?id=Dmax
 #EXTINF:-1 tvg-id="discoverych_twn" tvg-name="探索频道" group-title="纪录频道",探索频道
-https://live.catvod.com/live.php?id=discoverych_twn&token=1769385806.8f1b967f51400f7ed8f1d260f1531c38e2d39d7f146a228b1d5d974f647cd64a
+https://live.catvod.com/live.php?id=discoverych_twn
 
 #EXTINF:-1 tvg-id="Assp1" tvg-name="Astro PL 1" group-title="体育频道",Astro PL 1
-https://live.catvod.com/live.php?id=Assp1&token=1769385806.6caa57b20161dcf41afe36b95b69a4089ddd174ad09126fbe74271109e9c7260
+https://live.catvod.com/live.php?id=Assp1
 #EXTINF:-1 tvg-id="go_assp1" tvg-name="Astro PL 1 (Back Up 1)" group-title="体育频道",Astro PL 1 (Back Up 1)
-https://live.catvod.com/live.php?id=go_assp1&token=1769385806.936dcf633ed8482b62f61f0fe6d2cc9be608a01cda0aa62b49029d6c2e81dfa8
+https://live.catvod.com/live.php?id=go_assp1
 #EXTINF:-1 tvg-id="go_assp1x" tvg-name="Astro PL 1 (Back Up 2)" group-title="体育频道",Astro PL 1 (Back Up 2)
-https://live.catvod.com/live.php?id=go_assp1x&token=1769385806.27d7118f57f7cda462252776c49fa9372592775586f262217c340dbf465de0f6
+https://live.catvod.com/live.php?id=go_assp1x
 #EXTINF:-1 tvg-id="go_assp5" tvg-name="Astro W-Sports" group-title="体育频道",Astro W-Sports
-https://live.catvod.com/live.php?id=go_assp5&token=1769385806.5bb9ca1176f758f4cbc97a41bde7517da3d72f9d4126fd503c0564df2571a9ce
+https://live.catvod.com/live.php?id=go_assp5
 #EXTINF:-1 tvg-id="go_assp2" tvg-name="Astro PL 2" group-title="体育频道",Astro PL 2
-https://live.catvod.com/live.php?id=go_assp2&token=1769385806.58c7542a0248981d2d5ef2afcc64437eca72436dda3611fdceae4818945b4e83
+https://live.catvod.com/live.php?id=go_assp2
 #EXTINF:-1 tvg-id="Wwe" tvg-name="WWE" group-title="体育频道",WWE
-https://live.catvod.com/live.php?id=Wwe&token=1769385806.a40b203e8ca15043085b644d811c76c89c5a5176eb9d35b88aec360a3531fe39
+https://live.catvod.com/live.php?id=Wwe
 #EXTINF:-1 tvg-id="bosigolf2_twn" tvg-name="博斯高球2 HD" group-title="体育频道",博斯高球2 HD
-https://live.catvod.com/live.php?id=bosigolf2_twn&token=1769385806.8663275295ceabcd35584f950b0b352e998b4724315d85b855cb754a3a78cafb
+https://live.catvod.com/live.php?id=bosigolf2_twn
 #EXTINF:-1 tvg-id="bositennis_twn" tvg-name="博斯网球 HD" group-title="体育频道",博斯网球 HD
-https://live.catvod.com/live.php?id=bositennis_twn&token=1769385806.778e414118bb6932f46fbd71de499c92a1db96de5c58006ac3ab208c01a3a04f
+https://live.catvod.com/live.php?id=bositennis_twn
 #EXTINF:-1 tvg-id="Fs" tvg-name="Fight Sports" group-title="体育频道",Fight Sports
-https://live.catvod.com/live.php?id=Fs&token=1769385806.faf180afdf79d6901023db2b708fa6115c356748e8435b3af7f0fa5745ed6caf
+https://live.catvod.com/live.php?id=Fs
 #EXTINF:-1 tvg-id="Nba" tvg-name="NBA TV" group-title="体育频道",NBA TV
-https://live.catvod.com/live.php?id=Nba&token=1769385806.e6c55cca3d99d5304a5086e5085f8bef1c8cb191d08ffa0ef18e430c6317cb02
+https://live.catvod.com/live.php?id=Nba
 #EXTINF:-1 tvg-id="Arena" tvg-name="Arena" group-title="体育频道",Arena
-https://live.catvod.com/live.php?id=Arena&token=1769385806.8db14f819ea2fb145ae5358c27ed7ec683ee05d795592c9ddb4cabc9101bc97d
+https://live.catvod.com/live.php?id=Arena
 #EXTINF:-1 tvg-id="Arena2" tvg-name="Arena 2" group-title="体育频道",Arena 2
-https://live.catvod.com/live.php?id=Arena2&token=1769385806.bdc86e9dbcc5b331811a593a93995ed224dd85f379e0f8eba168c6c9f67cb302
+https://live.catvod.com/live.php?id=Arena2
 #EXTINF:-1 tvg-id="Bolaarena1" tvg-name="Arena Bola 1" group-title="体育频道",Arena Bola 1
-https://live.catvod.com/live.php?id=Bolaarena1&token=1769385806.44ea8543716ab2d493ed940fa0f327957b8604480efadb94e65076c7422acb6b
+https://live.catvod.com/live.php?id=Bolaarena1
 #EXTINF:-1 tvg-id="Bolaarena2" tvg-name="Arena Bola 2" group-title="体育频道",Arena Bola 2
-https://live.catvod.com/live.php?id=Bolaarena2&token=1769385806.a180604b957a6842061c722c127f53a6996be22696719a68cc3cc413d217f4bf
+https://live.catvod.com/live.php?id=Bolaarena2
 #EXTINF:-1 tvg-id="Agolf" tvg-name="Astro Golf" group-title="体育频道",Astro Golf
-https://live.catvod.com/live.php?id=Agolf&token=1769385806.ffb8cc26ecd1e9f6ef7e2522fde55e0de09d65fe905f5fcb6205fece0e64bb41
+https://live.catvod.com/live.php?id=Agolf
 #EXTINF:-1 tvg-id="Rtmsport" tvg-name="RTM Sports HD" group-title="体育频道",RTM Sports HD
-https://live.catvod.com/live.php?id=Rtmsport&token=1769385806.ff33a549366fe11ce27e6b92f606d51fe841762e768d5eb7f2ea5ba9f8a261a8
+https://live.catvod.com/live.php?id=Rtmsport
 #EXTINF:-1 tvg-id="go_assp4" tvg-name="Astro Football" group-title="体育频道",Astro Football
-https://live.catvod.com/live.php?id=go_assp4&token=1769385806.33641835573b23a718ca820b224746e504dfaadb50382a5cbf2c086a23ba2162
+https://live.catvod.com/live.php?id=go_assp4
 #EXTINF:-1 tvg-id="Assp4" tvg-name="Astro Football (Back Up 1)" group-title="体育频道",Astro Football (Back Up 1)
-https://live.catvod.com/live.php?id=Assp4&token=1769385806.7806a95ab7891f11a57f7157519d810fbe055ea9076b3b709a636a8fa5bafdcc
+https://live.catvod.com/live.php?id=Assp4
 #EXTINF:-1 tvg-id="go_badminton1" tvg-name="Astro Badminton" group-title="体育频道",Astro Badminton
-https://live.catvod.com/live.php?id=go_badminton1&token=1769385806.229a8b8ac2404f40edfdd40279b7e91207e8a27a95f5a56b903f4bccf0fb0083
+https://live.catvod.com/live.php?id=go_badminton1
 #EXTINF:-1 tvg-id="go_badminton2" tvg-name="Astro Badminton 2" group-title="体育频道",Astro Badminton 2
-https://live.catvod.com/live.php?id=go_badminton2&token=1769385806.55f99e057e9dc66bae686bdc2d8ccac2662a2cf39972256746e32456ab9f5285
+https://live.catvod.com/live.php?id=go_badminton2
 #EXTINF:-1 tvg-id="go_spotv" tvg-name="SPOTV 1 HD" group-title="体育频道",SPOTV 1 HD
-https://live.catvod.com/live.php?id=go_spotv&token=1769385806.617380e029bbff4e772b6742d8f659f105727d2e90d28b200c0658310cae177d
+https://live.catvod.com/live.php?id=go_spotv
 #EXTINF:-1 tvg-id="go_spotv2" tvg-name="SPO TV 2" group-title="体育频道",SPO TV 2
-https://live.catvod.com/live.php?id=go_spotv2&token=1769385806.3c03782e45fc35790303b0041c2f875c6b59ea93be8d6a77d89c6d502a1e27b0
+https://live.catvod.com/live.php?id=go_spotv2
 #EXTINF:-1 tvg-id="cctv5" tvg-name="CCTV-5 體育" group-title="体育频道",CCTV-5 體育
-https://live.catvod.com/live.php?id=cctv5&token=1769385806.35a7b7c3ad7b2256ae8e735dc8c7ca1a418fd8b9efe5b4a961c874c58f397d15
+https://live.catvod.com/live.php?id=cctv5
 #EXTINF:-1 tvg-id="cctv5plus" tvg-name="CCTV-5+ 體育" group-title="体育频道",CCTV-5+ 體育
-https://live.catvod.com/live.php?id=cctv5plus&token=1769385806.fbd7ed7749848a693f55947e6a8181b0cf13b7bbd7a3a878d9ce9caa2aa54b5e
+https://live.catvod.com/live.php?id=cctv5plus
 #EXTINF:-1 tvg-id="Assp2" tvg-name="Supersports 2" group-title="体育频道",Supersports 2
-https://live.catvod.com/live.php?id=Assp2&token=1769385806.0fab3261194c4200750589e2cd232e3c5aa63f683dcecb85b978276d963d8309
+https://live.catvod.com/live.php?id=Assp2
 #EXTINF:-1 tvg-id="go_assp3" tvg-name="Astro Grandstand" group-title="体育频道",Astro Grandstand
-https://live.catvod.com/live.php?id=go_assp3&token=1769385806.46c412f5e38a04105d6aa7df21e57a824fa1fdfc892c8e8733aec4362f214b6e
+https://live.catvod.com/live.php?id=go_assp3
 #EXTINF:-1 tvg-id="Acricket" tvg-name="Astro Cricket" group-title="体育频道",Astro Cricket
-https://live.catvod.com/live.php?id=Acricket&token=1769385806.25950d4c9e14cc41d4a778ab1dd35845801864619006ab3580b5a3af0dd71a0d
+https://live.catvod.com/live.php?id=Acricket
 #EXTINF:-1 tvg-id="tntsport1" tvg-name="Tnt Sports 1" group-title="体育频道",Tnt Sports 1
-https://live.catvod.com/live.php?id=tntsport1&token=1769385806.b33ceefd24165cf61f52f7e288d4c71175191d9acf97f73fe5ab218e253c42f2
+https://live.catvod.com/live.php?id=tntsport1
 #EXTINF:-1 tvg-id="Assp3" tvg-name="Astro Grandstand (Back Up 1)" group-title="体育频道",Astro Grandstand (Back Up 1)
-https://live.catvod.com/live.php?id=Assp3&token=1769385806.fa07fab1409a7918961e1efce380e1127a48f70fe9dec7cb9574d6eebe2402ce
+https://live.catvod.com/live.php?id=Assp3
 #EXTINF:-1 tvg-id="tntsport2" tvg-name="TNT Sports 2" group-title="体育频道",TNT Sports 2
-https://live.catvod.com/live.php?id=tntsport2&token=1769385806.f4d3a8e5d2e8c8d9d7f96ce317398151c8e4be35d33ae5213fcdbdba3113c9bb
+https://live.catvod.com/live.php?id=tntsport2
 #EXTINF:-1 tvg-id="tntsport3" tvg-name="TNT Sports 3" group-title="体育频道",TNT Sports 3
-https://live.catvod.com/live.php?id=tntsport3&token=1769385806.cec52407200a06c7491c5a0eb2528bb70ae7df381798d580281664fc18b585e7
+https://live.catvod.com/live.php?id=tntsport3
 #EXTINF:-1 tvg-id="tntsport4" tvg-name="TNT Sports 4" group-title="体育频道",TNT Sports 4
-https://live.catvod.com/live.php?id=tntsport4&token=1769385806.c68c85c1645c07362d52327f3b0bce68056b63636635a2dabc9ab57c6578aea5
+https://live.catvod.com/live.php?id=tntsport4
 #EXTINF:-1 tvg-id="go_sportsplus" tvg-name="Astro Sports Plus" group-title="体育频道",Astro Sports Plus
-https://live.catvod.com/live.php?id=go_sportsplus&token=1769385806.3f1efd78b13efcd3e66f7c9e0cc070fb75db07dba3d67ea8840e17a03c9b403c
+https://live.catvod.com/live.php?id=go_sportsplus
 #EXTINF:-1 tvg-id="eltasport1_twn" tvg-name="Elta体育1台" group-title="体育频道",Elta体育1台
-https://live.catvod.com/live.php?id=eltasport1_twn&token=1769385806.3f9b1194a23b313da47cfed3cd0c473959b33f7ad2a42eb33a1e573ebbd6e2e5
+https://live.catvod.com/live.php?id=eltasport1_twn
 #EXTINF:-1 tvg-id="eltasport2_twn" tvg-name="Elta體育2台" group-title="体育频道",Elta體育2台
-https://live.catvod.com/live.php?id=eltasport2_twn&token=1769385806.6c1552441d95927bcdb0a2a44a2fb83e97dbeab4094459bb8b86553cf26fcaa9
+https://live.catvod.com/live.php?id=eltasport2_twn
 #EXTINF:-1 tvg-id="eltasport3_twn" tvg-name="Elta體育3台" group-title="体育频道",Elta體育3台
-https://live.catvod.com/live.php?id=eltasport3_twn&token=1769385806.c814a4d43081e063934b097f067abf2c9d6d19a6fd153d5ad0182447b2272366
+https://live.catvod.com/live.php?id=eltasport3_twn
 #EXTINF:-1 tvg-id="Rugbypasstv" tvg-name="Rugby Pass TV" group-title="体育频道",Rugby Pass TV
-https://live.catvod.com/live.php?id=Rugbypasstv&token=1769385806.2b8139fbbb6c6d7abd94c5159b08ef8311e37d4762f5727c0ef4dd33f46ab412
+https://live.catvod.com/live.php?id=Rugbypasstv
 #EXTINF:-1 tvg-id="Astrobein1" tvg-name="Astro Beinsports 1" group-title="体育频道",Astro Beinsports 1
-https://live.catvod.com/live.php?id=Astrobein1&token=1769385806.b2f4fcc4f1c3c37ee1aab385ba0b8ebe909b980aee40faf35635901e08cdda70
+https://live.catvod.com/live.php?id=Astrobein1
 #EXTINF:-1 tvg-id="Astrobein2" tvg-name="Astro Beinsports 2" group-title="体育频道",Astro Beinsports 2
-https://live.catvod.com/live.php?id=Astrobein2&token=1769385806.7b685e1c1fc25f7209594aa88f9d5a34829daeef5b156e178a568730f0618994
+https://live.catvod.com/live.php?id=Astrobein2
 #EXTINF:-1 tvg-id="Astrobein3" tvg-name="Astro Beinsports 3" group-title="体育频道",Astro Beinsports 3
-https://live.catvod.com/live.php?id=Astrobein3&token=1769385806.0ec4db3d1ff7d7a61acce352f7ebb43053b34fbf257198b62714c352e1e42ee6
+https://live.catvod.com/live.php?id=Astrobein3
 #EXTINF:-1 tvg-id="tiankongcricket" tvg-name="Skysports Cricket" group-title="体育频道",Skysports Cricket
-https://live.catvod.com/live.php?id=tiankongcricket&token=1769385806.345c95f90de8a799e3cb3be66ee35b07ec7e7015792e92464048c631344a291c
+https://live.catvod.com/live.php?id=tiankongcricket
 #EXTINF:-1 tvg-id="tiankongepl" tvg-name="Skysports EPL" group-title="体育频道",Skysports EPL
-https://live.catvod.com/live.php?id=tiankongepl&token=1769385806.925cd65edbfaa8171f5b56e6a5fbb008e763cb174734bfaae04fc90fc3748ae7
+https://live.catvod.com/live.php?id=tiankongepl
 #EXTINF:-1 tvg-id="tiankongf1" tvg-name="Skysports F1" group-title="体育频道",Skysports F1
-https://live.catvod.com/live.php?id=tiankongf1&token=1769385806.cd757c1c0f8c11ddcc039bec4d956baa51b95e872ad2d5b84e9e5f02e5c722c0
+https://live.catvod.com/live.php?id=tiankongf1
 #EXTINF:-1 tvg-id="tiankonggolf" tvg-name="Skysports Golf" group-title="体育频道",Skysports Golf
-https://live.catvod.com/live.php?id=tiankonggolf&token=1769385806.f4624f3bf095ba1397d3e3bffe4343aedf879f05f29a70e62c863dd3a82022f2
+https://live.catvod.com/live.php?id=tiankonggolf
 #EXTINF:-1 tvg-id="tiankongmain" tvg-name="Skysports Main Event" group-title="体育频道",Skysports Main Event
-https://live.catvod.com/live.php?id=tiankongmain&token=1769385806.ad79c98b5ce54689ae91b2caf0c1b0d03bad6400481f1e282d40dc2efff3908d
+https://live.catvod.com/live.php?id=tiankongmain
 #EXTINF:-1 tvg-id="tiankongmix" tvg-name="Skysports Mix" group-title="体育频道",Skysports Mix
-https://live.catvod.com/live.php?id=tiankongmix&token=1769385806.683e35b09735f23b305f011c54398706571e8a66b5a5985e350bd0f615f625ac
+https://live.catvod.com/live.php?id=tiankongmix
 #EXTINF:-1 tvg-id="tiankongracing" tvg-name="Skysports Racing" group-title="体育频道",Skysports Racing
-https://live.catvod.com/live.php?id=tiankongracing&token=1769385806.f3278099f3ea04c08f7063bef56880968d3cb54e8fc48efdca4361866f5a1ef9
+https://live.catvod.com/live.php?id=tiankongracing
 #EXTINF:-1 tvg-id="dazn1_twn" tvg-name="DAZN 1" group-title="体育频道",DAZN 1
-https://live.catvod.com/live.php?id=dazn1_twn&token=1769385806.ef82e10bb408fb51c5466b948ff2c3ace04bde4620a83076a778f6abd7f8714f
+https://live.catvod.com/live.php?id=dazn1_twn
 #EXTINF:-1 tvg-id="dazn2_twn" tvg-name="DAZN 2" group-title="体育频道",DAZN 2
-https://live.catvod.com/live.php?id=dazn2_twn&token=1769385806.91a28b6056f35373d16a35aa2d6d45b56200591d4694843222d96fea3f718560
+https://live.catvod.com/live.php?id=dazn2_twn
 #EXTINF:-1 tvg-id="Eurosport" tvg-name="Eurosport" group-title="体育频道",Eurosport
-https://live.catvod.com/live.php?id=Eurosport&token=1769385806.7cb843171acfd7f67a37c8cce2bfd3789300fcdad5c0becf02845036d6ee01e7
+https://live.catvod.com/live.php?id=Eurosport
 
 #EXTINF:-1 tvg-id="Ind_babytv" tvg-name="Baby TV Eng" group-title="儿童频道",Baby TV Eng
-https://live.catvod.com/live.php?id=Ind_babytv&token=1769385806.3d9edbebf9039b1b0f553280d064a94fc3c88917fea6be45e6e4b4fc0d18a0a1
+https://live.catvod.com/live.php?id=Ind_babytv
 #EXTINF:-1 tvg-id="Cbeebies" tvg-name="CBeebies" group-title="儿童频道",CBeebies
-https://live.catvod.com/live.php?id=Cbeebies&token=1769385806.2e994d38f2c9d9d3f295373108a30195c6a41108550a64eea1009cf3720948ba
+https://live.catvod.com/live.php?id=Cbeebies
 #EXTINF:-1 tvg-id="KidsTV" tvg-name="Kids TV" group-title="儿童频道",Kids TV
-https://live.catvod.com/live.php?id=KidsTV&token=1769385806.4def71f16fdedb989548877dd4ba9a811258fbaa767b613ce3d877f23c50ea9f
+https://live.catvod.com/live.php?id=KidsTV
 #EXTINF:-1 tvg-id="momo1_twn" tvg-name="Momo TV" group-title="儿童频道",Momo TV
-https://live.catvod.com/live.php?id=momo1_twn&token=1769385806.150dbd51a047d7a7a05220d38c9b0afa2eef8477dcf482b4d891140cc32fde5c
+https://live.catvod.com/live.php?id=momo1_twn
 #EXTINF:-1 tvg-id="Animax" tvg-name="Animax" group-title="儿童频道",Animax
-https://live.catvod.com/live.php?id=Animax&token=1769385806.4da7389b0ecb8b2a56ad89464fa20644e0d55bff8827a02e1a7e26d23370b9aa
+https://live.catvod.com/live.php?id=Animax
 #EXTINF:-1 tvg-id="babytv_twn" tvg-name="Baby TV" group-title="儿童频道",Baby TV
-https://live.catvod.com/live.php?id=babytv_twn&token=1769385806.814a80e49742404fe074ef52d426adc01e90eb3dc60bc3f5a432363444df0158
+https://live.catvod.com/live.php?id=babytv_twn
 #EXTINF:-1 tvg-id="MiaoMi" tvg-name="MiaoMi" group-title="儿童频道",MiaoMi
-https://live.catvod.com/live.php?id=MiaoMi&token=1769385806.575a11d6fce370b4a45a51bcff63bea0021cb436df9d5555e5aa10c43948af93
+https://live.catvod.com/live.php?id=MiaoMi
 #EXTINF:-1 tvg-id="jingtiancartoon_twn" tvg-name="靖天卡通台" group-title="儿童频道",靖天卡通台
-https://live.catvod.com/live.php?id=jingtiancartoon_twn&token=1769385806.353b999014774a1592a6a9886efacc74193efdb432d6abce60f4248ec64f5f9b
+https://live.catvod.com/live.php?id=jingtiancartoon_twn
 #EXTINF:-1 tvg-id="yoyo_twn" tvg-name="东森幼幼 Yoyo TV" group-title="儿童频道",东森幼幼 Yoyo TV
-https://live.catvod.com/live.php?id=yoyo_twn&token=1769385806.74cff39c5eb762be34fef7a3e945642293fd4f8689be63783b55992305fd2ea1
+https://live.catvod.com/live.php?id=yoyo_twn
 #EXTINF:-1 tvg-id="Nickelodeon" tvg-name="Nickelodeon" group-title="儿童频道",Nickelodeon
-https://live.catvod.com/live.php?id=Nickelodeon&token=1769385806.1079289d5754f2fe57b095268608b58b6f786c3c6dd0270d5734c06c750d4a0d
+https://live.catvod.com/live.php?id=Nickelodeon
 #EXTINF:-1 tvg-id="Nickjr" tvg-name="Nick Jr" group-title="儿童频道",Nick Jr
-https://live.catvod.com/live.php?id=Nickjr&token=1769385806.a08f0a06d771c8817382c2fc34619544b37a55942b693e77ec1e5cce776028c1
+https://live.catvod.com/live.php?id=Nickjr
 #EXTINF:-1 tvg-id="Cn" tvg-name="Cartoon Network" group-title="儿童频道",Cartoon Network
-https://live.catvod.com/live.php?id=Cn&token=1769385806.1c75a468d3d588d35caec0abcaf1825a01b3e8a4ae8a909d91b2801dae947667
+https://live.catvod.com/live.php?id=Cn
