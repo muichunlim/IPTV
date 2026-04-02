@@ -6,7 +6,7 @@ from datetime import datetime, UTC
 from collections import OrderedDict
 
 # INPUT_URL = "https://live.catvod.com/tv.m3u"
-INPUT_URL = 'https://live.catvod.com/?tk=004c02043017e7cd15b66c7508a24ecb'
+INPUT_URL = 'https://live.catvod.com/?tk=053cc3036d24f7d0cbf4bc991a0d87ac'
 OUTPUT_FILE = "tv.m3u"
 
 GROUP_ORDER = [
